@@ -1,3 +1,2 @@
-maps
+Data Catalog Guide
 ====
-GeoJSON versions of ODC .shp files.
