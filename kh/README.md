@@ -1,3 +1,5 @@
-maps
+Cambodia Data
 ====
-GeoJSON versions of ODC .shp files.
+Raw data and metadata.
+
+admin contains useful boundary data (country, province, district, commune)
