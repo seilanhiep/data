@@ -16,10 +16,10 @@ en
  
 Download URL
  
-https://raw.githubusercontent.com/OpenDevelopmentMekong/data/master/kh/project_data/admin/kh_provinces.csv
-https://raw.githubusercontent.com/OpenDevelopmentMekong/data/master/kh/project_data/admin/kh_provinces.geojson
-https://raw.githubusercontent.com/OpenDevelopmentMekong/data/master/kh/project_data/admin/kh_provinces.kml
-https://raw.githubusercontent.com/OpenDevelopmentMekong/data/master/kh/project_data/admin/kh_provinces.topojson
+[https://raw.githubusercontent.com/OpenDevelopmentMekong/data/master/kh/project_data/admin/kh_provinces.csv](https://raw.githubusercontent.com/OpenDevelopmentMekong/data/master/kh/project_data/admin/kh_provinces.csv)
+[https://raw.githubusercontent.com/OpenDevelopmentMekong/data/master/kh/project_data/admin/kh_provinces.geojson](https://raw.githubusercontent.com/OpenDevelopmentMekong/data/master/kh/project_data/admin/kh_provinces.geojson)
+[https://raw.githubusercontent.com/OpenDevelopmentMekong/data/master/kh/project_data/admin/kh_provinces.kml](https://raw.githubusercontent.com/OpenDevelopmentMekong/data/master/kh/project_data/admin/kh_provinces.kml)
+[https://raw.githubusercontent.com/OpenDevelopmentMekong/data/master/kh/project_data/admin/kh_provinces.topojson](https://raw.githubusercontent.com/OpenDevelopmentMekong/data/master/kh/project_data/admin/kh_provinces.topojson)
  
 Access and Use Constraints
  
@@ -77,7 +77,7 @@ Phnom Penh, Cambodia
 Open Development Cambodia
 contact@opendevcam.net
 Phone
-http://www.opendevcam.net
+[http://www.opendevcam.net](http://www.opendevcam.net)
 43 St 208, Phnom Penh, Cambodia
  
 Metadata Reference
@@ -87,7 +87,7 @@ Metadata last updated on 2014-06-19. For inquiries contact:
 Open Development Cambodia
 contact@opendevcam.net
 Phone
-http://www.opendevcam.net
+[http://www.opendevcam.net](http://www.opendevcam.net)
 43 St 208, Phnom Penh, Cambodia
  
 Attributes
