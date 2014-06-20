@@ -96,10 +96,10 @@ Metadata Reference
 
 Metadata last updated on 2014-06-20. For inquiries contact:
  
-Open Development Cambodia
-contact@opendevcam.net
-http://www.opendevcam.net
-43 St 208, Phnom Penh, Cambodia
+Open Development Cambodia  
+contact@opendevcam.net  
+http://www.opendevcam.net  
+43 St 208, Phnom Penh, Cambodia  
 
 Attributes
 
