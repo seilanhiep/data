@@ -4,7 +4,26 @@ Distribution of Soil Types in Cambodia (Crocker, 1962)
 
 Description
 
-This vector dataset provides the distribution of soil types in Cambodia, as given in Crocker (1962). Sixteen different soil types are given: red-yellow podzols, latosols, planosols, plinthite podzols, cultural hydromorphics, grey hydromorphics, plinthitic hydromorphics, brown hydromorphics, alumisols, regurs, acid lithosols, basic lithosols, alluvial lithosols, brown alluvial soils, lacustrine alluvial soils, and coastal complex. Geographic data is encoded in the WGS 84 coordinate reference system. Data were provided to us in vector format by Save Cambodia's Wildlife's Atlas Working Group.
+This vector dataset provides the distribution of soil types in Cambodia, as provided by Crocker (1962). Sixteen different soil types are given: 
+
+* red-yellow podzols
+* latosols
+* planosols
+* plinthite podzols
+* cultural hydromorphics
+* grey hydromorphics
+* plinthitic hydromorphics
+* brown hydromorphics
+* alumisols
+* regurs
+* acid lithosols
+* basic lithosols
+* alluvial lithosols
+* brown alluvial soils
+* lacustrine alluvial soils
+* coastal complex
+
+Geographic data is encoded in the WGS 84 coordinate reference system. Data were provided to us in vector format by Save Cambodia's Wildlife's Atlas Working Group.
 
 Format
 
