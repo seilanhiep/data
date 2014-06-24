@@ -1,80 +1,80 @@
-**Title**
+Title
 
 
 
-**Description**
+Description
 
 
 
-**Format**
+Format
 
 
 
-**Language**
+Language
 
 
 
-**Download URL**
+Download URL
 
 
 
-**Access and Use Constraints**
+Access and Use Constraints
 
 
 
-**License**
+License
 
 
 
-**Date Created**
+Date Created
 
 
 
-**Date Uploaded**
+Date Uploaded
 
 
 
-**Date Last Updated**
+Date Last Updated
 
 
 
-**Temporal Coverage**
+Temporal Coverage
 
 
 
-**Spatial Coverage**
+Spatial Coverage
 
 
 
-**Accuracy**
+Accuracy
 
 
 
-**Logical Consistency**
+Logical Consistency
 
 
 
-**Completeness**
+Completeness
 
 
 
-**Processes**
+Processes
 
 
 
-**Sources**
+Sources
 
 
 
-**Contact**
+Contact
 
 
 
-**Metadata Reference**
+Metadata Reference
 
 
 
-**Attributes**
+Attributes
 
 
 
