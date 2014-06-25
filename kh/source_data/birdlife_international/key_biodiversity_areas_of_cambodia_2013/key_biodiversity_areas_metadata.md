@@ -16,7 +16,9 @@ en
 
 **Download URL**
 
+https://raw.githubusercontent.com/OpenDevelopmentMekong/data/master/kh/source_data/birdlife_international/key_biodiversity_areas_of_cambodia_2013/key_biodiversity_areas.geojson
 
+https://github.com/OpenDevelopmentMekong/data/blob/master/kh/source_data/birdlife_international/key_biodiversity_areas_of_cambodia_2013/key_biodiversity_areas_shp.zip
 
 **Access and Use Constraints**
 
