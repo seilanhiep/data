@@ -70,30 +70,27 @@ Ministry of Land Management’s Land Administration Sub-Sector Program (LASSP) n
 
 Contact
 
-Save Cambodia Wildlife 
-info@cambodiaswildlife.org 
-+855 23 88 20 35 
-http://cambodiaswildlife.org/ 
-6Eo, St.570, Sangat Boeung Kak 2, Khan Tuol Kork, Phnom Penh, Cambodia.
+Save Cambodia Wildlife  
+info@cambodiaswildlife.org  
++855 23 88 20 35  
+http://cambodiaswildlife.org/  
+6Eo, St.570, Sangat Boeung Kak 2, Khan Tuol Kork, Phnom Penh, Cambodia.  
 
 Metadata Reference
 
 Metadata last updated on 2014-06-25. For inquiries contact:
 
-Open Development Cambodia (ODC) 
-info@opendevcam.net 
-+855 23 22 47 82 
-+855 23 22 11 64 
-www.opendevcam.net 
-43, St. 208, S/K Boeung Riang, Khan Daun Penh, Phnom Penh, Cambodia
+Open Development Cambodia (ODC)  
+info@opendevcam.net  
++855 23 22 47 82  
++855 23 22 11 64  
+www.opendevcam.net   
+43, St. 208, S/K Boeung Riang, Khan Daun Penh, Phnom Penh, Cambodia  
 
 Attributes
 
-NCDD_CodeP / National Committee for Sub-National Democratic Development (NCDD) :	NCDD province code
-NCDD_CodeD / NCDD :	NCDD district code
-NCDD_CodeC / NCDD :	NCDD commune code
+NCDD_CodeP / National Committee for Sub-National Democratic Development (NCDD) :	NCDD province code  
+NCDD_CodeD / NCDD :	NCDD district code  
+NCDD_CodeC / NCDD :	NCDD commune code  
 Commune / Government of Cambodia :	Commune name  
-SLR / Cambodia Ministry of Land Management :	Systematic land registration ongoing or finished in commune (1 for true, 0 for false) 
-
-
-
+SLR / Cambodia Ministry of Land Management :	Systematic land registration ongoing or finished in commune (1 for true, 0 for false)  
