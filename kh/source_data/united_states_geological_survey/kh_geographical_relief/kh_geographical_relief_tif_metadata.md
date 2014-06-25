@@ -4,7 +4,7 @@ Geographical Relief of Cambodia
 
 Description
 
-
+This dataset describes the georelief (elevation) of Cambodia.
 
 Format
 
