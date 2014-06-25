@@ -4,13 +4,7 @@ Urban Density
 
 Description
 
-This vector dataset provides the urban density in Cambodia, as provided by United Nations Population Fund (UNFPA). Five different density classifications are given:
-
-2000-15700
-1000-2000
-500-1000
-250-500
-9-250
+This vector dataset provides the urban density in Cambodia, as provided by United Nations Population Fund (UNFPA).
 
 Format
 
@@ -66,7 +60,8 @@ There are no known issues with completeness.
 
 Processes
 
-Data were provided to Open Development Cambodia directly by Save Cambodia's Wildlife's 2013 Atlas Working Group in ESRI Shapefile format. The coordinate reference system was changed from WGS 84 Zone 48 N to WGS 84 and the data was exported in both ESRI Shapefile and geoJSON formats.
+Data were provided to Open Development Cambodia directly by Save Cambodia's Wildlife's 2013 Atlas Working Group in ESRI Shapefile format. The data were exported in CSV format.
+
 
 Sources
 
