@@ -16,7 +16,7 @@ en
 
 Download URL
 
-https://github.com/rdnatividad/data/blob/master/kh/source_data/ministry_of_health/demographic_and_health_survey/2010/demographic_and_health_survey_2010.csv
+https://raw.githubusercontent.com/OpenDevelopmentMekong/data/master/kh/source_data/ministry_of_health/demographic_and_health_survey/2010/demographic_and_health_survey_2010.csv
 
 Access and Use Constraints
 
@@ -91,10 +91,10 @@ www.opendevcam.net
 
 Attributes
 
-Pro_Code/gov:	Province Code
-Province/gov: Province  
-Neo_Mort/gov: Neonatal Mortality Rate
-U5_Mort/gov: Under 5 Mortality
+Pro_Code/government of Cambodia:	Province Code  
+Province/government of Cambodia: Province  
+Neo_Mort/government of Cambodia: Neonatal Mortality Rate  
+U5_Mort/government of Cambodia: Under 5 Mortality  
 
 
 
