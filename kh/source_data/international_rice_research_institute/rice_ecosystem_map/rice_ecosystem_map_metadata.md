@@ -40,23 +40,23 @@ Date Last Updated
 
 Temporal Coverage
 
-
+0000-00-00:0000-00-00
 
 Spatial Coverage
 
-
+Cambodia
 
 Accuracy
 
-
+There are no known issues with accuracy.
 
 Logical Consistency
 
-
+There are no known issues with logical consistency.
 
 Completeness
 
-
+There are no known issues with completeness.
 
 Processes
 
