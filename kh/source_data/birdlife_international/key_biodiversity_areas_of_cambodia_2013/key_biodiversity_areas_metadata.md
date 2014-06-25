@@ -4,7 +4,7 @@ Key Biodiversity Areas (KBA) of Cambodia (2013)
 
 **Description**
 
-Key Biodiversity Areas identify and ultimately ensure that networks of globally important sites are safeguarded. KBA identification for the Indo-Burma hotspot is building on the global structure of Important Bird Areas. This asset provides boundaries of KBAs in Cambodia, the development status and priority status of each, and whether each KBA is an IBA as well. 
+Key Biodiversity Areas identify and ultimately ensure that networks of globally important sites are safeguarded. KBA identification for the Indo-Burma hotspot is building on the global structure of Important Bird Areas. This asset provides boundaries of KBAs in Cambodia, the development status and priority status of each, and whether each KBA is an IBA as well. Geographic data is encoded in the WGS 84 coordinate reference system. Data were provided to us in vector format by Save Cambodia's Wildlife's Atlas Working Group.
 
 **Format**
 
@@ -70,34 +70,34 @@ Sandoval, Rebeca. "Biodiversity." Atlas of Cambodia: maps on socio-economic deve
 
 **Contact**
      
-Tep Boonny
-Save Cambodia's Wildlife (SCW)
-info@cambodiaswildlife.org
-+855 23 88 20 35
-http://cambodiaswildlife.org
-6Eo, St.570, Sangat Boeung Kak 2, Khan Tuol Kork, Phnom Penh, Cambodia
+Tep Boonny  
+Save Cambodia's Wildlife (SCW)  
+info@cambodiaswildlife.org  
++855 23 88 20 35  
+http://cambodiaswildlife.org  
+6Eo, St.570, Sangat Boeung Kak 2, Khan Tuol Kork, Phnom Penh, Cambodia  
 
 **Metadata Reference**
 
 Metadata last updated on 2014-06-19. For inquiries contact:
 
-Loch Kalyan
-Open Development Cambodia
-contact@opendevcam.net
-+855 23 221 164
-http://www.opendevelopmentcambodia.net
-43, St 208, S/K Boeung Riang, Khan Daun Penh, Phnom Penh, Cambodia
+Loch Kalyan  
+Open Development Cambodia  
+contact@opendevcam.net  
++855 23 221 164  
+http://www.opendevelopmentcambodia.net  
+43, St 208, S/K Boeung Riang, Khan Daun Penh, Phnom Penh, Cambodia  
 
 **Attributes**
 
-Name/Birdlife International: Name of the key biodiversity area
-Dev_Status/Birdlife International: Development Status
-IBA/Birdlife International: The existence of important bird area (IBA) in the KBA
-IBA_Code/Birdlife International:The unique ID for IBA.
-PRIORITY/Birdlife International: Whether the KBA has priority status
-ISO3/Birdlife International: Country code
-Code/Birdlife International: Zone code
-LSize_Skm/Birdlife International: Land size in square kilometer
-LSize_Ha/Birdlife International: Land size in hectare
+Name/Birdlife International: Name of the key biodiversity area  
+Dev_Status/Birdlife International: Development Status  
+IBA/Birdlife International: The existence of important bird area (IBA) in the KBA  
+IBA_Code/Birdlife International:The unique ID for IBA.  
+PRIORITY/Birdlife International: Whether the KBA has priority status  
+ISO3/Birdlife International: Country code  
+Code/Birdlife International: Zone code  
+LSize_Skm/Birdlife International: Land size in square kilometer  
+LSize_Ha/Birdlife International: Land size in hectare  
 
 
