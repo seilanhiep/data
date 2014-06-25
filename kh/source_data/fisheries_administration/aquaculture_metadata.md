@@ -1,17 +1,10 @@
 Title
 
-Aquaculture
+Aquaculture Production and Consumption in Cambodia (2011)
 
 Description
 
-This vector dataset provides the aquaculture production amounts (in tonnes) in Cambodia, as provided by Fisheries Administration 2011. Six different production amounts are given:
-
-15000-18000
-10000-15000
-7500-10000
-2500-7500
-less than 2500
-No Data 
+This vector dataset provides the aquaculture production amounts (in tonnes) for 2011 in Cambodia, as provided by Cambodian Fisheries Administration. 
 
 Format
 
@@ -23,7 +16,7 @@ en
 
 Download URL
 
-https://raw.githubusercontent.com/elizabeth-buner/data/master/kh/source_data/fisheries_administration/aquaculture.csv
+https://raw.githubusercontent.com/OpenDevelopmentMekong/data/master/kh/source_data/fisheries_administration/aquaculture.csv
 
 Access and Use Constraints
 
@@ -67,7 +60,7 @@ There are no known issues with completeness.
 
 Processes
 
-Data were provided to Open Development Cambodia directly by Save Cambodia's Wildlife's 2013 Atlas Working Group in ESRI Shapefile format. The coordinate reference system was changed from WGS 84 Zone 48 N to WGS 84 and the data was exported in both ESRI Shapefile and geoJSON formats.
+Data were provided to Open Development Cambodia directly by Save Cambodia's Wildlife's 2013 Atlas Working Group in ESRI Shapefile format. The data were exported in CSV format.
 
 Sources
 
@@ -105,6 +98,10 @@ Commercial / Fisheries Administration (Commercial fish catch)
 Marine_F / Fisheries Administration (Marine fish catch)
 TT / Fisheries Administration (Total fish catch)
 Consum_g / Fisheries Administration (Fish Consumption (grams))
-
+TMCFi	/ Fisheries Administration
+FCFi	/ Fisheries Administration
+MCFi	/ Fisheries Administration
+PFCFi	/ Fisheries Administration
+PMCFi / Fisheries Administration
 
 
