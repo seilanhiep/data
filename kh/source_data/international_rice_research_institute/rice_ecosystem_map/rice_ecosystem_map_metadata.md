@@ -1,6 +1,6 @@
 Title
 
-
+Rice Ecosystem
 
 Description
 
@@ -8,11 +8,11 @@ Description
 
 Format
 
-
+geojson; shp; jpg
 
 Language
 
-
+en
 
 Download URL
 
@@ -28,15 +28,15 @@ License
 
 Date Created
 
-
+2006-00-00
 
 Date Uploaded
 
-
+2014-00-00
 
 Date Last Updated
 
-
+2014-00-00
 
 Temporal Coverage
 
