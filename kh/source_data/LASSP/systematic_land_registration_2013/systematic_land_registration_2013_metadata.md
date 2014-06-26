@@ -1,10 +1,10 @@
 Title
 
-Systematic Land Registration and Order #1 Land Registration (Cambodia, 2013)
+Systematic Land Registration in Cambodia (2013)
 
 Description
 
-This dataset describes describes the status of systematic land registration in Cambodia's communes, as given in the Cambodian Ministry of Land Management's Land Administration Sub-Sector Program (LASSP) 2013 newsletter.
+This dataset describes describes the status of systematic land registration in Cambodia's communes by March 2013, as given in the Cambodian Ministry of Land Management's Land Administration Sub-Sector Program (LASSP) 2013 newsletter.
 
 Format
 
@@ -28,7 +28,7 @@ License
 
 Date Created
 
-2013-00-00
+2013-03-00
 
 Date Uploaded
 
@@ -40,7 +40,7 @@ Date Last Updated
 
 Temporal Coverage
 
-2013-00-00
+Current as of 2013-03-00
 
 Spatial Coverage
 
@@ -56,7 +56,7 @@ There are no known issues with logical consistency.
 
 Completeness
 
-There are no known issues with completeness.
+This dataset provides SLR registration as of March 2013. According to Save Cambodia's Wildlife's Atlas of Cambodia, the government indended to extend SLR to all Cambodian provinces from September 2013.
 
 Processes
 
@@ -64,9 +64,9 @@ Data were provided to Open Development Cambodia directly by Save Cambodia's Wild
 
 Sources
 
-Sandoval, Rebeca. "Land." Atlas of Cambodia: maps on socio-economic development and environment. Second ed. Phnom Penh: Save Cambodia's Wildlife, 2014. 131. Print.
+Ministry of Land Management. Land Administration Sub-Sector Program (LASSP) newsletter. Phnom Penh, 2013.
 
-Ministry of Land Management’s Land Administration Sub-Sector Program (LASSP) newsletter, Urban Planning and Construction, 2013.
+Save Cambodia's Wildlife. "Land." Atlas of Cambodia: maps on socio-economic development and environment. Second ed. Phnom Penh, 2014. 131. Print.
 
 Contact
 
@@ -74,18 +74,17 @@ Save Cambodia Wildlife
 info@cambodiaswildlife.org  
 +855 23 88 20 35  
 http://cambodiaswildlife.org/  
-6Eo, St.570, Sangat Boeung Kak 2, Khan Tuol Kork, Phnom Penh, Cambodia.  
+6Eo, St. 570, Sangkat Boeung Kak 2, Khan Tuol Kork, Phnom Penh, Cambodia.  
 
 Metadata Reference
 
 Metadata last updated on 2014-06-25. For inquiries contact:
 
-Open Development Cambodia (ODC)  
-info@opendevcam.net  
-+855 23 22 47 82  
-+855 23 22 11 64  
-www.opendevcam.net   
-43, St. 208, S/K Boeung Riang, Khan Daun Penh, Phnom Penh, Cambodia  
+Open Development Cambodia  
+contact@opendevcam.net  
++855 23 221 164  
+http://www.opendevelopmentcambodia.net  
+43, St. 208, Sangkat Boeung Riang, Khan Daun Penh, Phnom Penh, Cambodia  
 
 Attributes
 
