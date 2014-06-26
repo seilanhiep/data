@@ -74,31 +74,31 @@ Save Cambodia's Wildlife. "Forests." Atlas of Cambodia: maps on socio-economic d
 
 Contact
 
-Save Cambodia's Wildlife (SCW)
-info@cambodiaswildlife.org
-+855 23 88 20 35
-http://cambodiaswildlife.org
-6Eo, St. 570, Sangat Boeung Kak 2, Khan Tuol Kork, Phnom Penh, Cambodia
+Save Cambodia's Wildlife (SCW)  
+info@cambodiaswildlife.org  
++855 23 88 20 35  
+http://cambodiaswildlife.org  
+6Eo, St. 570, Sangat Boeung Kak 2, Khan Tuol Kork, Phnom Penh, Cambodia  
 
 
 Metadata Reference
 
 Metadata last updated on 2014-06-19. For inquiries contact:
 
-Loch Kalyan
-Open Development Cambodia
-contact@opendevcam.net
-+855 23 221 164
-http://www.opendevelopmentcambodia.net
-43, St 208, Sangkat Boeung Riang, Khan Daun Penh, Phnom Penh, Cambodia
+Loch Kalyan  
+Open Development Cambodia  
+contact@opendevcam.net  
++855 23 221 164  
+http://www.opendevelopmentcambodia.net  
+43, St 208, Sangkat Boeung Riang, Khan Daun Penh, Phnom Penh, Cambodia  
 
 Attributes
 
-longtitude/Forestry Administration: Longtitude
-latitude/Forestry Administration: Latitude
-name/Forestry Administration: The name of the community forestry
-lsize_ha/Forestry Administration: Land size in hectare
-province/Forestry Administration: The province where the community forestry is located
-district/Forestry Administration: The district where the community forestry is located
-commune/Forestry Administration: The commune where the community forestry is located
-status/Forestry Administration: Signed CF Agreement, approved and designated by local FA Cantonment, Submitted to MAFF for approval, Approved by MAFF, and 'FA'
+longtitude/Forestry Administration: Longtitude  
+latitude/Forestry Administration: Latitude  
+name/Forestry Administration: The name of the community forestry  
+lsize_ha/Forestry Administration: Land size in hectare  
+province/Forestry Administration: The province where the community forestry is located  
+district/Forestry Administration: The district where the community forestry is located  
+commune/Forestry Administration: The commune where the community forestry is located  
+status/Forestry Administration: Signed CF Agreement, approved and designated by local FA Cantonment, Submitted to MAFF for approval, Approved by MAFF, and 'FA'  
