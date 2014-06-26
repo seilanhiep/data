@@ -4,11 +4,11 @@ Eviction and Relocation Hotspots (2013)
 
 Description
 
-This asset provides the area of eviction hotspots and relocation hotspots in Cambodia, with color coding demonstrating number of families affected. Data were provided to us in vector format by Save Cambodia's Wildlife's Atlas Working Group.
+This asset provides the area of eviction hotspots and relocation hotspots in Cambodia, with raster value that demonstrates number of families affected. Data were provided to us in vector format by Save Cambodia's Wildlife's Atlas Working Group.
 
 Format
 
-geotiff
+kmz; geotiff
 
 Language
 
@@ -17,6 +17,8 @@ en
 Download URL
 
 https://github.com/OpenDevelopmentMekong/data/blob/master/kh/source_data/sahmakun_teang/eviction_hotspots/eviction_hotspots.kmz
+
+https://github.com/OpenDevelopmentMekong/data/blob/master/kh/source_data/sahmakun_teang/eviction_hotspots/eviction_hotspots.zip
 
 Access and Use Constraints
 
@@ -60,13 +62,13 @@ There are no known issues with completeness.
 
 Processes
 
-Data were provided to Open Development Cambodia directly by Save Cambodia's Wildlife's 2013 Atlas Working Group in ESRI Shapefile format. The data were exported in geotiff format.
+Data were provided to Open Development Cambodia directly by Save Cambodia's Wildlife's 2013 Atlas Working Group in ESRI Shapefile format. The data were exported in geotiff and kmz formats.
 
 Sources
 
-Sahmakum Teang Tnaut (STT), 2013  
+Sahmakum Teang Tnaut (STT). Phnom Penh, 2013  
 
-Department of Geography (DoG), 2005  
+Department of Geography (DoG). Phnom Penh, 2005  
 
 Save Cambodia's Wildlife. "Urban." Atlas of Cambodia: maps on socio-economic development and environment. Second ed. Phnom Penh, 2014. 106. Print.
 
@@ -94,6 +96,7 @@ http://www.opendevelopmentcambodia.net
 
 Attributes
 
+Raster value/Sahmakum Teang Tnaut: Number of families. The levels are high, medium, low and very low. 
 
 
 
