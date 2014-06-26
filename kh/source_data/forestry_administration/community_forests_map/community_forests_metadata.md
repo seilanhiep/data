@@ -4,7 +4,7 @@ Community Forests in Cambodia (2013)
 
 Description
 
-This dataset contains the location and status of applications for community forestry status in Cambodia in 2013, given by the Forestry Administration. Data were provided to us in vector format by Save Cambodia's Wildlife's Atlas Working Group.
+This asset contains the location and status of applications for community forestry status in Cambodia in 2013, given by the Forestry Administration. Data were provided to us in vector format by Save Cambodia's Wildlife's Atlas Working Group.
 
 Format
 
@@ -97,7 +97,7 @@ Attributes
 longtitude/Forestry Administration: Longtitude  
 latitude/Forestry Administration: Latitude  
 name/Forestry Administration: The name of the community forestry  
-lsize_ha/Forestry Administration: Land size in hectare  
+lsize_ha/Forestry Administration: Land size (hectare)  
 province/Forestry Administration: The province where the community forestry is located  
 district/Forestry Administration: The district where the community forestry is located  
 commune/Forestry Administration: The commune where the community forestry is located  
