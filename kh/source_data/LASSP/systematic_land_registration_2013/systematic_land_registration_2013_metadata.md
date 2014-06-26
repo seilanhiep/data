@@ -92,4 +92,4 @@ NCDD_CodeP / National Committee for Sub-National Democratic Development (NCDD) :
 NCDD_CodeD / NCDD :	NCDD district code  
 NCDD_CodeC / NCDD :	NCDD commune code  
 Commune / Government of Cambodia :	Commune name  
-SLR / Cambodia Ministry of Land Management :	Systematic land registration ongoing or finished in commune (1 for true, 0 for false)  
+SLR / Cambodia Ministry of Land Management :	Systematic land registration ongoing or finished in commune (1 for true, 0 for false)
