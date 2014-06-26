@@ -64,9 +64,9 @@ Data were provided to Open Development Cambodia directly by Save Cambodia's Wild
 
 Sources
 
-Sandoval, Rebeca. "Aquaculture Production." Atlas of Cambodia: maps on socio-economic development and environment. Second ed. Phnom Penh: Save Cambodia's Wildlife, 2014. 44-45. Print.
+Fisheries Administration. Phnom Penh, 2011.
 
-Fisheries Administration (2011)
+Save Cambodia's Wildlife. "Aquaculture Production." Atlas of Cambodia: maps on socio-economic development and environment. Second ed. Phnom Penh, 2014. 44-45. Print.
 
 Contact
 
