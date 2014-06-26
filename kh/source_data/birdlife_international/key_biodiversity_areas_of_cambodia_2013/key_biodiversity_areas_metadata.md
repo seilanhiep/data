@@ -1,10 +1,10 @@
 **Title**
 
-Key Biodiversity Areas (KBA) of Cambodia (2013)
+Key Biodiversity Areas (KBA) and Important Bird Areas (IBA) of Cambodia (2013)
 
 **Description**
 
-Key Biodiversity Areas identify and ultimately ensure that networks of globally important sites are safeguarded. KBA identification for the Indo-Burma hotspot is building on the global structure of Important Bird Areas. This asset provides boundaries of KBAs in Cambodia, the development status and priority status of each, and whether each KBA is an IBA as well. 
+This asset provides boundaries of Key Biodiversity Areas (KBA) in Cambodia, the development status and priority status of each, and whether each KBA is a BirdLife International-designated Important Bird Area (IBA) as well. Geographic data is encoded in the WGS 84 coordinate reference system. Data were provided to us in vector format by Save Cambodia's Wildlife's Atlas Working Group.
 
 **Format**
 
@@ -66,38 +66,45 @@ Data were provided to Open Development Cambodia directly by Save Cambodia's Wild
 
 **Sources**
 
-Sandoval, Rebeca. "Biodiversity." Atlas of Cambodia: maps on socio-economic development and environment. Second ed. Phnom Penh: Save Cambodia's Wildlife, 2014. 31-36. Print.
+BirdLife International, Conservational International, the Critical Ecosystem Partnership Fund and WWF Cambodia Programme. Key Biodiversity Areas of Cambodia. BirdLife International, Cambridge, UK and Conservational International, Arlington, VA, 2013.
+
+Save Cambodia's Wildlife. "Biodiversity." Atlas of Cambodia: maps on socio-economic development and environment. Second ed. Phnom Penh, 2014. 31-36. Print.
 
 **Contact**
+
+BirdLife International  
+science@birdlife.org  
+
+Conservation International  
+data@conservation.org  
      
-Tep Boonny
-Save Cambodia's Wildlife (SCW)
-info@cambodiaswildlife.org
-+855 23 88 20 35
-http://cambodiaswildlife.org
-6Eo, St.570, Sangat Boeung Kak 2, Khan Tuol Kork, Phnom Penh, Cambodia
+Save Cambodia's Wildlife (SCW)  
+info@cambodiaswildlife.org  
++855 23 88 20 35  
+http://cambodiaswildlife.org  
+6Eo, St.570, Sangkat Boeung Kak 2, Khan Tuol Kork, Phnom Penh, Cambodia  
 
 **Metadata Reference**
 
 Metadata last updated on 2014-06-19. For inquiries contact:
 
-Loch Kalyan
-Open Development Cambodia
-contact@opendevcam.net
-+855 23 221 164
-http://www.opendevelopmentcambodia.net
-43, St 208, S/K Boeung Riang, Khan Daun Penh, Phnom Penh, Cambodia
+Loch Kalyan  
+Open Development Cambodia  
+contact@opendevcam.net  
++855 23 221 164  
+http://www.opendevelopmentcambodia.net  
+43, St. 208, Sangkat Boeung Riang, Khan Daun Penh, Phnom Penh, Cambodia  
 
 **Attributes**
 
-Name/Birdlife International: Name of the key biodiversity area
-Dev_Status/Birdlife International: Development Status
-IBA/Birdlife International: The existence of important bird area (IBA) in the KBA
-IBA_Code/Birdlife International:The unique ID for IBA.
-PRIORITY/Birdlife International: Whether the KBA has priority status
-ISO3/Birdlife International: Country code
-Code/Birdlife International: Zone code
-LSize_Skm/Birdlife International: Land size in square kilometer
-LSize_Ha/Birdlife International: Land size in hectare
+Name/Conservation International: Name of the key biodiversity area  
+Dev_Status/Conservation International: Development status  
+IBA/BirdLife International: The existence of important bird area (IBA) in the KBA  
+IBA_Code/BirdLife International:The unique ID for IBA.  
+PRIORITY/Conservation International: Whether the KBA has priority status  
+ISO3/Conservation International: Three-letter country code  
+Code/Conservation International: Zone code  
+LSize_Skm/Conservation International: Area size (sq.km)
+LSize_Ha/Conservation International: Area size (hectare)  
 
 
