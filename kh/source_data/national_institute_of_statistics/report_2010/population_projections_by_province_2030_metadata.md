@@ -94,16 +94,16 @@ http://www.opendevelopmentcambodia.net
 
 Attributes
 
-NCDD_CodeP/National Committee for Sub-National Democratic Development (NCDD): NCDD province code
-Province/National Institute of Statistics: Name of the province
-POP2030_UN/United Nations: Projected population in 2030 by the United Nations
-MPOP2030/United Nations: Projected male population in 2030
-FPOP2030/United Nations: Projected female population in 2030
-Annual_GR/National Institute of Statistics: Annual growth from 1998-2008 (%)
-Sex_R/National Institute of Statistics: Sex ratio (%)
-M_Age/National Institute of Statistics: Median age
-PPop2030/National Institute of Statistics: Unknown
-AGRProject/National Institute of Statistics: Projected annual growth rate from 2008-2030(%)
-Norm/National Institute of Statistics: Norm
+NCDD_CodeP/National Committee for Sub-National Democratic Development (NCDD): NCDD province code  
+Province/National Institute of Statistics: Name of the province  
+POP2030_UN/United Nations: Projected population in 2030 by the United Nations  
+MPOP2030/United Nations: Projected male population in 2030  
+FPOP2030/United Nations: Projected female population in 2030  
+Annual_GR/National Institute of Statistics: Annual growth from 1998-2008 (%)  
+Sex_R/National Institute of Statistics: Sex ratio (%)  
+M_Age/National Institute of Statistics: Median age  
+PPop2030/National Institute of Statistics: Unknown  
+AGRProject/National Institute of Statistics: Projected annual growth rate from 2008-2030(%)  
+Norm/National Institute of Statistics: Norm  
 
 
