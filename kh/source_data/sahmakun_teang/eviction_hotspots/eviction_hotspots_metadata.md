@@ -4,7 +4,7 @@ Eviction and Relocation Hotspots (2013)
 
 Description
 
-This asset provides the area of eviction hotspots and relocation hotspots in Cambodia, with raster value that demonstrates number of families affected. Data were provided to us in vector format by Save Cambodia's Wildlife's Atlas Working Group.
+This asset provides the area of eviction hotspots and relocation hotspots in Cambodia, with raster value that demonstrates number of families affected, given by Sahmakum Teang Tnaut. Data were provided to us in vector format by Save Cambodia's Wildlife's Atlas Working Group.
 
 Format
 
