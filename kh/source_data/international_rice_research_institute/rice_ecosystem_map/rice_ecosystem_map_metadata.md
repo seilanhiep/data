@@ -1,15 +1,15 @@
 Title
 
-Rice Ecosystem
+Rice Ecosystem Map for Cambodia
 
 Description
 
-This vector dataset provides the rice ecosystem types in Cambodia, as provided by IRRI Project, CIRP. Four different ecosystems are given:
+This vector dataset provides the locations of rice ecosystem types in Cambodia, as provided by the International Rice Research Institute's (IRRI) Cambodia-IRRI Rice Project. Four different ecosystems are given:
 
-Rainfed upland rice
-Recession rice
-Deep water/floating rice
-Rainfed lowland rice
+* Rainfed upland rice
+* Recession rice
+* Deep water/floating rice
+* Rainfed lowland rice
 
 Format
 
@@ -77,26 +77,24 @@ IRRI Project, CIRP (date unknown)
 
 Contact
 
-Save Cambodia's Wildlife
-6E0, street 570, Boeung Kak II,
-Khan Toul Kork, Phnom Penh
-info@cambodiaswildlife.org
-www.cambodiaswildlife.org
+Save Cambodia's Wildlife (SCW)  
+info@cambodiaswildlife.org  
++855 23 88 20 35  
+http://cambodiaswildlife.org  
+6Eo, St. 570, Sangkat Boeung Kak 2, Khan Tuol Kork, Phnom Penh, Cambodia  
 
 Metadata Reference
 
 Metadata last updated on 2014-06-25. For inquiries contact:
 
-Open Development Cambodia
-info@opendevcam.net
-contact@opendevcam.net
-(855) 23 224 782/(855) 23 221 164
-http://www.opendevcam.net
-43 St 208, Phnom Penh, Cambodia
-
+Open Development Cambodia  
+contact@opendevcam.net  
++855 23 221 164  
+http://www.opendevelopmentcambodia.net  
+43, St. 208, Sangkat Boeung Riang, Khan Daun Penh, Phnom Penh, Cambodia  
 
 Attributes
 
-Name/IRRI Project, CIRP: Rice Ecosystem
+Name / International Rice Research Institute : Rice ecosystem name
 
 
