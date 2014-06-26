@@ -90,9 +90,12 @@ http://www.opendevelopmentcambodia.net
 
 Attributes
 
-NCDD_CodeP / government of Cambodia:	NCDD province Code  
+NCDD_CodeP / government of Cambodia:	NCDD province Code
+
 Province / government of Cambodia: Province name 
+
 Neo_Mort / government of Cambodia: Neonatal Mortality Rate (deaths per 1000 live births)
+
 U5_Mort / government of Cambodia: Under 5 Mortality (deaths per 1000 live births)
 
 
