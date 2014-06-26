@@ -1,74 +1,74 @@
-Title
+**Title**
 
 Urban Density
 
-Description
+**Description**
 
 This vector dataset provides the urban density in Cambodia, as provided by United Nations Population Fund (UNFPA).
 
-Format
+**Format**
 
 csv
 
-Language
+**Language**
 
 en
 
-Download URL
+**Download URL**
 
 https://raw.githubusercontent.com/OpenDevelopmentMekong/data/master/kh/source_data/united_nations_population_fund/urban_density/urban_density.csv
 
-Access and Use Constraints
+**Access and Use Constraints**
 
 
 
-License
+**License**
 
 
 
-Date Created
+**Date Created**
 
 2011-00-00
 
-Date Uploaded
+**Date Uploaded**
 
 2014-00-00
 
-Date Last Updated
+**Date Last Updated**
 
 NA
 
-Temporal Coverage
+**Temporal Coverage**
 
 2008:2011
 
-Spatial Coverage
+**Spatial Coverage**
 
 Cambodia
 
-Accuracy
+**Accuracy**
 
 There are no known issues with accuracy.
 
-Logical Consistency
+**Logical Consistency**
 
 There are no known issues with logical consistency.
 
-Completeness
+**Completeness**
 
 There are no known issues with completeness.
 
-Processes
+**Processes**
 
 Data were provided to Open Development Cambodia directly by Save Cambodia's Wildlife's 2013 Atlas Working Group in ESRI Shapefile format. The data were exported in CSV format.
 
-Sources
+**Sources**
 
 Save Cambodia's Wildlife. "Urban Density." Atlas of Cambodia: maps on socio-economic development and environment. Second ed. Phnom Penh, 2014. 98-99. Print.
 
 United Nations Population Fund. Reclassification of Urban Areas in Cambodia. 2011.
 
-Contact
+**Contact**
 
 Save Cambodia's Wildlife (SCW)  
 info@cambodiaswildlife.org  
@@ -76,7 +76,7 @@ info@cambodiaswildlife.org
 http://cambodiaswildlife.org  
 6Eo, St. 570, Sangkat Boeung Kak 2, Khan Tuol Kork, Phnom Penh, Cambodia  
 
-Metadata Reference
+**Metadata Reference**
 
 Metadata last updated on 2014-06-25. For inquiries contact:
 
@@ -86,7 +86,7 @@ contact@opendevcam.net
 http://www.opendevelopmentcambodia.net  
 43, St. 208, Sangkat Boeung Riang, Khan Daun Penh, Phnom Penh, Cambodia  
 
-Attributes
+**Attributes**
 
 Province / Government of Cambodia : Province name  
 District/ Government of Cambodia : District name  
