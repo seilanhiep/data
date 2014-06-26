@@ -90,10 +90,12 @@ http://www.opendevelopmentcambodia.net
 
 Attributes
 
+Longitude / Government of Cambodia: Longitude of village
+Latitude / Government of Cambodia: Latitude of village
 Vil_Code / Government of Cambodia: Village Code  
 Village / Government of Cambodia:	Village Name  
-Name / Government of Cambodia: Name of Secondary School  
-Distance / Government of Cambodia: Distance from Secondary School  
+School_Name / Government of Cambodia: Name of Secondary School  
+School_Dist / Government of Cambodia: Distance from Secondary School  
 
 
 
