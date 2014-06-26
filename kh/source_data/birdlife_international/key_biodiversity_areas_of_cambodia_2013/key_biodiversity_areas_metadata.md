@@ -72,11 +72,11 @@ Save Cambodia's Wildlife. "Biodiversity." Atlas of Cambodia: maps on socio-econo
 
 **Contact**
 
-BirdLife International
-science@birdlife.org
+BirdLife International  
+science@birdlife.org  
 
-Conservation International
-data@conservation.org
+Conservation International  
+data@conservation.org  
      
 Save Cambodia's Wildlife (SCW)  
 info@cambodiaswildlife.org  
@@ -97,14 +97,14 @@ http://www.opendevelopmentcambodia.net
 
 **Attributes**
 
-Name/Birdlife International: Name of the key biodiversity area  
-Dev_Status/Birdlife International: Development status  
-IBA/Birdlife International: The existence of important bird area (IBA) in the KBA  
-IBA_Code/Birdlife International:The unique ID for IBA.  
-PRIORITY/Birdlife International: Whether the KBA has priority status  
-ISO3/Birdlife International: Three-letter country code  
-Code/Birdlife International: Zone code  
-LSize_Skm/Birdlife International: Area size in square kilometer  
-LSize_Ha/Birdlife International: Area size in hectare  
+Name/Conservation International: Name of the key biodiversity area  
+Dev_Status/Conservation International: Development status  
+IBA/BirdLife International: The existence of important bird area (IBA) in the KBA  
+IBA_Code/BirdLife International:The unique ID for IBA.  
+PRIORITY/Conservation International: Whether the KBA has priority status  
+ISO3/Conservation International: Three-letter country code  
+Code/Conservation International: Zone code  
+LSize_Skm/Conservation International: Area size in square kilometer  
+LSize_Ha/Conservation International: Area size in hectare  
 
 
