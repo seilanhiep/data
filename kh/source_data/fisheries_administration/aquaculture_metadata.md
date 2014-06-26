@@ -4,7 +4,7 @@ Aquaculture Production and Consumption in Cambodia (2011)
 
 Description
 
-This vector dataset provides the aquaculture production amounts (in tonnes) for 2011 in Cambodia, as provided by Cambodian Fisheries Administration. 
+This vector dataset aquaculture production and consumption metrics for 2011 in Cambodia, as provided by the Cambodian Fisheries Administration. Data were provided to us in vector format by Save Cambodia's Wildlife's Atlas Working Group.
 
 Format
 
@@ -40,7 +40,7 @@ NA
 
 Temporal Coverage
 
-Not found
+2011
 
 Spatial Coverage
 
@@ -70,38 +70,37 @@ Fisheries Administration (2011)
 
 Contact
 
-Save Cambodia's Wildlife
-6E0, street 570, Boeung Kak II,
-Khan Toul Kork, Phnom Penh
-info@cambodiaswildlife.org
-www.cambodiaswildlife.org
+Save Cambodia's Wildlife (SCW)  
+info@cambodiaswildlife.org  
++855 23 88 20 35  
+http://cambodiaswildlife.org  
+6Eo, St.570, Sangkat Boeung Kak 2, Khan Tuol Kork, Phnom Penh, Cambodia  
 
 Metadata Reference
 
 Metadata last updated on 2014-06-25. For inquiries contact:
 
-Open Development Cambodia
-info@opendevcam.net
-contact@opendevcam.net
-(855) 23 224 782/(855) 23 221 164
-http://www.opendevcam.net
-43 St 208, Phnom Penh, Cambodia
+Open Development Cambodia  
+contact@opendevcam.net  
++855 23 221 164  
+http://www.opendevelopmentcambodia.net  
+43, St. 208, Sangkat Boeung Riang, Khan Daun Penh, Phnom Penh, Cambodia  
 
 Attributes
 
-Pro_Code / Fisheries Administration (Province Code)
-Province / Fisheries Administration (Province Name)
-Aq_Pro / Fisheries Administration (Aquaculture Production in 2011 (tonnes))
-Fi_Per1000 / Fisheries Administration (Fishers per 1000 Inhabitants)
-SmallS_F_C / Fisheries Administration (Small scale fish catch)
-Commercial / Fisheries Administration (Commercial fish catch)
-Marine_F / Fisheries Administration (Marine fish catch)
-TT / Fisheries Administration (Total fish catch)
-Consum_g / Fisheries Administration (Fish Consumption (grams))
-TMCFi	/ Fisheries Administration
-FCFi	/ Fisheries Administration
-MCFi	/ Fisheries Administration
-PFCFi	/ Fisheries Administration
-PMCFi / Fisheries Administration
+NCDD_CodeP / National Committee for Sub-National Democratic Development (NCDD) : NCDD province code  
+Province / Fisheries Administration : Province name  
+Aq_Pro / Fisheries Administration : Aquaculture production in 2011 (tonnes)  
+Fi_Per1000 / Fisheries Administration : Fishers per 1000 Inhabitants  
+SmallS_F_C / Fisheries Administration : Small scale fish catch (unknown units)  
+Commercial / Fisheries Administration : Commercial fish catch (unknown units)  
+Marine_F / Fisheries Administration : Marine fish catch (unknown units)  
+TT / Fisheries Administration : Total fish catch (unknown units)  
+Consum_g / Fisheries Administration : Fish Consumption (grams)  
+TMCFi	/ Fisheries Administration : Unknown attribute  
+FCFi	/ Fisheries Administration : Unknown attribute  
+MCFi	/ Fisheries Administration : Unknown attribute  
+PFCFi	/ Fisheries Administration : Unknown attribute  
+PMCFi / Fisheries Administration : Unknown attribute  
 
 
