@@ -1,10 +1,10 @@
 Title
 
-Distance to Upper Secondary Schools
+Village Distance to Upper Secondary Schools in Cambodia (2013)
 
 Description
 
-This dataset describes the long distances students need to travel to reach lower and upper secondary schools in rural areas. 
+This dataset provides the distances students need to travel to reach upper secondary schools for each village in Cambodia. Data were provided to us in vector format by Save Cambodia's Wildlife's Atlas Working Group.
 
 Format
 
@@ -42,7 +42,7 @@ Date Last Updated
 
 Temporal Coverage
 
-2012
+2013
 
 Spatial Coverage
 
@@ -66,33 +66,34 @@ Data were provided to Open Development Cambodia directly by Save Cambodia's Wild
 
 Sources
 
-Sandoval, Rebeca. "Education." Atlas of Cambodia: maps on socio-economic development and environment. Second ed. Phnom Penh: Save Cambodia's Wildlife, 2014. 72. Print.
+Ministry of Education, Youth, and Sports, Government of Cambodia. Inventory and Location of Schools in Cambodia. Phnom Penh, 2013.
+
+Save Cambodia's Wildlife. "Education." Atlas of Cambodia: maps on socio-economic development and environment. Second ed. Phnom Penh, 2014. 72. Print.
 
 Contact
 
-Save Cambodia Wildlife
-info@cambodiaswildlife.org
-855 23 88 20 35
-http://cambodiaswildlife.org/
-6Eo, St.570, Sangat Boeung Kak 2, Khan Tuol Kork, Phnom Penh, Cambodia.
+Save Cambodia's Wildlife (SCW)  
+info@cambodiaswildlife.org  
++855 23 88 20 35  
+http://cambodiaswildlife.org  
+6Eo, St. 570, Sangkat Boeung Kak 2, Khan Tuol Kork, Phnom Penh, Cambodia  
 
 Metadata Reference
 
-Ross Natividad
-Open Development Cambodia (ODC)
-info@opendevcam.net
-855 23 22 47 82
-855 23 22 11 64
-www.opendevcam.net
-43, St. 208, S/K Boeung Riang, Khan Daun Penh, Phnom Penh, Cambodia
+Metadata last updated on 2014-06-26. For inquiries contact:
 
+Open Development Cambodia  
+contact@opendevcam.net  
++855 23 221 164  
+http://www.opendevelopmentcambodia.net  
+43, St. 208, Sangkat Boeung Riang, Khan Daun Penh, Phnom Penh, Cambodia  
 
 Attributes
 
-Vil_Code/government of Cambodia: Village Code  
-Village/government of Cambodia:	Village Name  
-Name/government of Cambodia: Name of Secondary School  
-Distance/government of Cambodia: Distance from Secondary School  
+Vil_Code / Government of Cambodia: Village Code  
+Village / Government of Cambodia:	Village Name  
+Name / Government of Cambodia: Name of Secondary School  
+Distance / Government of Cambodia: Distance from Secondary School  
 
 
 
