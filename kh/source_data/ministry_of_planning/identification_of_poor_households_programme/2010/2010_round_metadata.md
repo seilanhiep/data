@@ -68,11 +68,11 @@ Save Cambodia's Wildlife. "Poverty." Atlas of Cambodia: maps on socio-economic d
 
 Contact
 
-Save Cambodia's Wildlife (SCW)
-info@cambodiaswildlife.org
-+855 23 88 20 35
-http://cambodiaswildlife.org
-6Eo, St. 570, Sangkat Boeung Kak 2, Khan Tuol Kork, Phnom Penh, Cambodia
+Save Cambodia's Wildlife (SCW)  
+info@cambodiaswildlife.org  
++855 23 88 20 35  
+http://cambodiaswildlife.org  
+6Eo, St. 570, Sangkat Boeung Kak 2, Khan Tuol Kork, Phnom Penh, Cambodia  
 
 Metadata Reference
 
@@ -86,19 +86,19 @@ http://www.opendevelopmentcambodia.net
 
 Attributes
 
-Province / government of Cambodia : province name
-District / government of Cambodia : district name
-Commune / government of Cambodia : commune name
-Vil_Code / government of Cambodia : village code
-Village / government of Cambodia : village name
-L1_HH / government of Cambodia : level 1 household
-L2_HH / government of Cambodia :  level 2 household
-L1_Per_HH / government of Cambodia : poverty level 1 household
-L2_Per_HH / government of Cambodia : poverty level 2 household
-TOT_Per_HH / government of Cambodia : total poverty per household
-TOT_HH / government of Cambodia : total number of households
-Rounds / government of Cambodia : round (year)
-Scale / government of Cambodia : level (1 or 2)
+Province / government of Cambodia : province name  
+District / government of Cambodia : district name  
+Commune / government of Cambodia : commune name  
+Vil_Code / government of Cambodia : village code  
+Village / government of Cambodia : village name  
+L1_HH / government of Cambodia : level 1 household  
+L2_HH / government of Cambodia :  level 2 household  
+L1_Per_HH / government of Cambodia : poverty level 1 household  
+L2_Per_HH / government of Cambodia : poverty level 2 household  
+TOT_Per_HH / government of Cambodia : total poverty per household  
+TOT_HH / government of Cambodia : total number of households  
+Rounds / government of Cambodia : round (year)  
+Scale / government of Cambodia : level (1 or 2)  
 
 
 
