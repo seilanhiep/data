@@ -4,7 +4,7 @@ Geographical Relief of Cambodia
 
 Description
 
-This dataset describes the georelief (elevation) of Cambodia.
+This dataset describes the georelief (elevation) of Cambodia. Data were provided to us by Save Cambodia's Wildlife's Atlas Working Group.
 
 Format
 
@@ -64,29 +64,27 @@ Data were provided to Open Development Cambodia directly by Save Cambodia's Wild
 
 Sources
 
-Sandoval, Rebeca. "Overview." Atlas of Cambodia: maps on socio-economic development and environment. Second ed. Phnom Penh: Save Cambodia's Wildlife, 2014. 4-5. Print.
+Save Cambodia's Wildlife. "Overview." Atlas of Cambodia: maps on socio-economic development and environment. Second ed. Phnom Penh, 2014. 4-5. Print.
 
-United States Geological Survey.  http://earthexplorer.usgs.gov.
+United States Geological Survey. http://earthexplorer.usgs.gov.
 
 Contact
 
-Save Cambodia Wildlife 
-info@cambodiaswildlife.org 
-+855 23 88 20 35 
-http://cambodiaswildlife.org/ 
-6Eo, St.570, Sangat Boeung Kak 2, Khan Tuol Kork, Phnom Penh, Cambodia.
-
+Save Cambodia's Wildlife (SCW)  
+info@cambodiaswildlife.org  
++855 23 88 20 35  
+http://cambodiaswildlife.org  
+6Eo, St. 570, Sangkat Boeung Kak 2, Khan Tuol Kork, Phnom Penh, Cambodia  
 
 Metadata Reference
 
-Ross Natividad 
-Open Development Cambodia (ODC) 
-info@opendevcam.net 
-+855 23 22 47 82 
-+855 23 22 11 64 
-www.opendevcam.net 
-43, St. 208, S/K Boeung Riang, Khan Daun Penh, Phnom Penh, Cambodia
+Metadata last updated on 2014-06-19. For inquiries contact:
 
+Open Development Cambodia  
+contact@opendevcam.net  
++855 23 221 164  
+http://www.opendevelopmentcambodia.net  
+43, St. 208, Sangkat Boeung Riang, Khan Daun Penh, Phnom Penh, Cambodia  
 
 Attributes
 
