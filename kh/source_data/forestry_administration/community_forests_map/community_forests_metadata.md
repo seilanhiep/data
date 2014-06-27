@@ -97,7 +97,7 @@ Attributes
 longtitude/Forestry Administration: Longtitude  
 latitude/Forestry Administration: Latitude  
 name/Forestry Administration: The name of the community forestry  
-lsize_ha/Forestry Administration: Land size (hectare)  
+lsize_ha/Forestry Administration: Land size (hectares)  
 province/Forestry Administration: The province where the community forestry is located  
 district/Forestry Administration: The district where the community forestry is located  
 commune/Forestry Administration: The commune where the community forestry is located  
