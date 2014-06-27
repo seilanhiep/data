@@ -4,7 +4,7 @@ Identification of Households, Round 4 (2010)
 
 Description
 
-This dataset describes the poverty levels (1, 2, or other) covering 6,411 villages in 11 provinces.
+This dataset describes the poverty levels (1, 2, or other) covering 6,411 villages in 11 provinces. Data were provided to us in vector format by Save Cambodia's Wildlife's Atlas Working Group.
 
 Format
 
