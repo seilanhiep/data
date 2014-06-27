@@ -4,7 +4,7 @@ Arsenic Concentration Hotspots
 
 Description
 
-This vector dataset provides the Arsenic Concentration Hotspots in Cambodia, as provided by Cambodia Well Map database 2013
+This vector dataset provides the Arsenic Concentration Hotspots in Cambodia, as provided by Cambodia Well Map database 2013. Data were provided to us in vector format by Save Cambodia's Wildlife's Atlas Working Group.
 
 Format
 
@@ -60,13 +60,13 @@ There are no known issues with completeness
 
 Processes
 
-Data were provided to Open Development Cambodia directly by Save Cambodia's Wildlife's 2013 Atlas Working Group in ESRI Raster format. The data were exported in geotiff format.
+Data were provided to Open Development Cambodia directly by Save Cambodia's Wildlife's 2013 Atlas Working Group in raster format.
 
 Sources
 
-Save Cambodia's Wildlife. "Arsenic Concentration Hotspots" Atlas of Cambodia: maps on socio-economic development and environment. Second ed. Phnom Penh, 2014. 64-65. Print.
+Ministry of Rural Development, Government of Cambodia. Cambodia WellMap Database 2013. Phnom Penh, 2013. http://www.cambodiawellmap.com/
 
-Cambodia Well Map database 2013
+Save Cambodia's Wildlife. "Arsenic Concentration Hotspots" Atlas of Cambodia: maps on socio-economic development and environment. Second ed. Phnom Penh, 2014. 64-65. Print.
 
 Contact
 
