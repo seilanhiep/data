@@ -1,6 +1,6 @@
 Title
 
-Gene-Ecological Zone (2003)
+Gene-Ecological Zones of Cambodia (2003)
 
 Description
 
@@ -68,27 +68,28 @@ Data were provided to Open Development Cambodia directly by Save Cambodia's Wild
 
 Sources
 
-Sandoval, Rebeca. "Forests." Atlas of Cambodia: maps on socio-economic development and environment. Second ed. Phnom Penh: Save Cambodia's Wildlife, 2014. 14-15. Print.
+Forestry Administration, Cambodia Tree Seed Project. Gene-Ecological Zonation of Cambodia. Phnom Penh, 2013.
+
+Save Cambodia's Wildlife. "Forests." Atlas of Cambodia: maps on socio-economic development and environment. Second ed. Phnom Penh, 2014. 14-15. Print.
 
 Contact
 
-Tep Boonny
-Save Cambodia's Wildlife (SCW)
-info@cambodiaswildlife.org
-+855 23 88 20 35
-http://cambodiaswildlife.org
-6Eo, St.570, Sangat Boeung Kak 2, Khan Tuol Kork, Phnom Penh, Cambodia
+Save Cambodia's Wildlife (SCW)  
+info@cambodiaswildlife.org  
++855 23 88 20 35  
+http://cambodiaswildlife.org  
+6Eo, St. 570, Sangkat Boeung Kak 2, Khan Tuol Kork, Phnom Penh, Cambodia  
 
 Metadata Reference
 
 Metadata last updated on 2014-06-19. For inquiries contact:
 
-Loch Kalyan
-Open Development Cambodia
-contact@opendevcam.net
-+855 23 221 164
-http://www.opendevelopmentcambodia.net
-43, St 208, S/K Boeung Riang, Khan Daun Penh, Phnom Penh, Cambodia
+Loch Kalyan  
+Open Development Cambodia  
+contact@opendevcam.net  
++855 23 221 164  
+http://www.opendevelopmentcambodia.net  
+43, St. 208, Sangkat Boeung Riang, Khan Daun Penh, Phnom Penh, Cambodia  
 
 Attributes
 
