@@ -1,10 +1,11 @@
 Title
 
-Identification of Households, Round 5 (2011)
+Identification of Households in Cambodia, Round 5 (2011)
 
 Description
 
-This dataset describes the poverty levels (1, 2, or other) covering 4,227 villages in 9 provinces.
+This dataset describes the poverty levels (1, 2, or other) covering 4,227 villages in 9 provinces. Data were provided to us in vector format by Save Cambodia's Wildlife's Atlas Working Group.
+
 
 Format
 
@@ -64,6 +65,8 @@ Data were provided to Open Development Cambodia directly by Save Cambodia's Wild
 
 Sources
 
+Ministry of Planning, Government of Cambodia. Identification of Poor Households Programme. Phnom Penh, 2011. https://web.archive.org/web/20140627084931/http://www.mop.gov.kh/Projects/IDPoor/tabid/154/Default.aspx
+
 Save Cambodia's Wildlife. "Poverty." Atlas of Cambodia: maps on socio-economic development and environment. Second ed. Phnom Penh, 2014. 76-79. Print.
 
 Contact
@@ -86,19 +89,19 @@ http://www.opendevelopmentcambodia.net
 
 Attributes
 
-Province / government of Cambodia : province name
-District / government of Cambodia : district name
-Commune / government of Cambodia : commune name
-Vil_Code / government of Cambodia : village code
-Village / government of Cambodia : village name
-L1_HH / government of Cambodia : level 1 household
-L2_HH / government of Cambodia :  level 2 household
-L1_Per_HH / government of Cambodia : poverty level 1 household
-L2_Per_HH / government of Cambodia : poverty level 2 household
-TOT_Per_HH / government of Cambodia : total poverty per household
-TOT_HH / government of Cambodia : total number of households
-Rounds / government of Cambodia : round (year)
-Scale / government of Cambodia : level (1 or 2)
+Province / government of Cambodia : province name  
+District / government of Cambodia : district name  
+Commune / government of Cambodia : commune name  
+Vil_Code / government of Cambodia : village code  
+Village / government of Cambodia : village name  
+L1_HH / government of Cambodia : level 1 household  
+L2_HH / government of Cambodia :  level 2 household  
+L1_Per_HH / government of Cambodia : poverty level 1 household  
+L2_Per_HH / government of Cambodia : poverty level 2 household  
+TOT_Per_HH / government of Cambodia : total poverty per household  
+TOT_HH / government of Cambodia : total number of households  
+Rounds / government of Cambodia : round (year)  
+Scale / government of Cambodia : level (1 or 2)  
 
 
 
