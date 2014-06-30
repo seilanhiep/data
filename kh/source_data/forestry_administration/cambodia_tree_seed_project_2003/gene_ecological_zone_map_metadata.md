@@ -64,11 +64,11 @@ There are no known issues with completeness.
 
 Processes
 
-Data were provided to Open Development Cambodia directly by Save Cambodia's Wildlife's 2006 Atlas Working Group in ESRI Shapefile format. The coordinate reference system was changed from WGS 84 Zone 48 N to WGS 84 and the data was exported in both ESRI Shapefile, geoJSON and PDF formats.
+Data were provided to Open Development Cambodia directly by Save Cambodia's Wildlife's 2006 Atlas Working Group in ESRI Shapefile format. The coordinate reference system was changed from WGS 84 Zone 48 N to WGS 84 and the data was exported in ESRI Shapefile, geoJSON and PDF formats.
 
 Sources
 
-Forestry Administration, Cambodia Tree Seed Project. Gene-Ecological Zonation of Cambodia. Phnom Penh, 2013.
+Forestry Administration, Cambodia Tree Seed Project. Gene-Ecological Zonation of Cambodia. Phnom Penh, 2003.
 
 Save Cambodia's Wildlife. "Forests." Atlas of Cambodia: maps on socio-economic development and environment. Second ed. Phnom Penh, 2014. 14-15. Print.
 
