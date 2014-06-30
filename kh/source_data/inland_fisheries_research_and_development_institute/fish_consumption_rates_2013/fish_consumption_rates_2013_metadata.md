@@ -1,10 +1,10 @@
 Title
 
-Fish Consumption Rates
+Fish Consumption Rates in Cambodia (2013)
 
 Description
 
-This vector dataset provides fish consumption per ecological zone in Cambodia, as provided by Inland Fisheries Research and Development Institute in 2013.  
+This vector dataset provides fish consumption per ecological zone in Cambodia, as given by Inland Fisheries Research and Development Institute in 2013. Data were provided to us in vector format by Save Cambodia's Wildlife's Atlas Working Group.
 
 Format
 
@@ -66,7 +66,7 @@ Data were provided to Open Development Cambodia directly by Save Cambodia's Wild
 
 Sources
 
-Inland Fisheries Research and Development Institute, 2013.
+Inland Fisheries Research and Development Institute, Fisheries Administration, Government of Cambodia. Phnom Penh, 2013.
 
 Save Cambodia's Wildlife. "Fish Consumption per Ecological Zone." Atlas of Cambodia: maps on socio-economic development and environment. Second ed. Phnom Penh, 2014. 40-41. Print.
 
@@ -98,5 +98,4 @@ Max / Inland Fisheries Research and Development Institute : Unknown
 Fconsump / Inland Fisheries Research and Development Institute : Fish consumption
 Geometry / Inland Fisheries Research and Development Institute : Unknown
 Coordinates / Inland Fisheries Research and Development Institute : Location of ecological zone
-
 
