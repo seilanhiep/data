@@ -98,7 +98,7 @@ http://www.opendevelopmentcambodia.net
 Attributes
 
 TT_Family / NCDD : total number of families in commune  
-LSize_Ha / NCDD : Commune area (hectares)  
+Commune_S / NCDD : commune size (hectares)
 
 Corn_Ha / NCDD : land area for corn production (hectares)  
 Corn_Yield / NCDD : cassava yield per year (tonnes/hectare)  
@@ -133,5 +133,5 @@ Fami_Impro / NCDD : number of families with improved latrines
 Fami_Unim / NCDD : number of families with unimproved latrines  
 RatImpLatH / NCDD : ratio of improved latrines to households  
 
-RiField_Ha / NCDD : rice field size (hectares)  
+RiField_Ha / NCDD : rice field size (hectares)
 Ratio / NCDD : ratio of rice field size to commune size
