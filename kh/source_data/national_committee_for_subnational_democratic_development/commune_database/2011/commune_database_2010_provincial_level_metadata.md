@@ -1,10 +1,10 @@
 Title
 
-Commune Database 2011, Provincial Level
+Commune Database 2010, Provincial Level
 
 Description
 
-Province-level data is derived from the Commune Database, produced by the NCDD (National Committee for Subnational Democratic Development). This file contains excerpts of the Database, namely quantitative data about ? for each commune in Cambodia as well as ?. Data were provided to us in vector format by Save Cambodia's Wildlife's Atlas Working Group.
+Province-level data is derived from the Commune Database, produced by the NCDD (National Committee for Subnational Democratic Development). This file contains excerpts of the Database, namely quantitative data about domestic violence for each province in Cambodia. Data were provided to us in vector format by Save Cambodia's Wildlife's Atlas Working Group.
 
 Format
 
@@ -16,7 +16,7 @@ en
 
 Download URL
 
-https://raw.githubusercontent.com/OpenDevelopmentMekong/data/master/kh/source_data/national_committee_for_subnational_democratic_development/commune_database/2011/commune_database_2011_provincial_level.csv
+https://raw.githubusercontent.com/OpenDevelopmentMekong/data/master/kh/source_data/national_committee_for_subnational_democratic_development/commune_database/2011/commune_database_2010_provincial_level.csv
 
 Access and Use Constraints
 
@@ -28,7 +28,7 @@ License
 
 Date Created
 
-2011-00-00
+2010-00-00
 
 Date Uploaded
 
@@ -40,7 +40,7 @@ n/a
 
 Temporal Coverage
 
-2011
+2010
 
 Spatial Coverage
 
@@ -64,7 +64,7 @@ Data were provided to Open Development Cambodia directly by Save Cambodia's Wild
 
 Sources
 
-National Committee for Sub-National Democratic Development, Government of Cambodia. Commune Database 2011. Phnom Penh, 2011.
+National Committee for Sub-National Democratic Development, Government of Cambodia. Commune Database 2010. Phnom Penh, 2010.
 
 Save Cambodia's Wildlife. "Gender." Atlas of Cambodia: maps on socio-economic development and environment. Second ed. Phnom Penh, 2014. 114-115. Print.
 
@@ -93,10 +93,10 @@ http://www.opendevelopmentcambodia.net
 
 Attributes
 
-PhyVio / NCDD : number of reported incidents of physical violence
-SexVio / NCDD : number of reported incidents of sexual violence
-MenVio / NCDD : number of reported incidents of mental violence
-HHEcoVio / NCDD : number of reported incidents of household/economic violence
-TT_Dom_Vio / NCDD : total number of reported incidents of domestic violence (physical, sexual, mental, and household/economic)
+PhyVio / NCDD : number of reported cases of physical violence
+SexVio / NCDD : number of reported cases of sexual violence
+MenVio / NCDD : number of reported cases of mental violence
+HHEcoVio / NCDD : number of reported cases of household/economic violence
+TT_Dom_Vio / NCDD : total number of reported cases of domestic violence (physical, sexual, mental, and household/economic)
 
 
