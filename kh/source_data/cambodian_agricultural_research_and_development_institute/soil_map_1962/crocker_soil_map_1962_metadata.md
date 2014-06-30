@@ -88,13 +88,15 @@ Crocker, C.D. (1962). The general map of the Kingdom of Cambodia and the
 exploratory survey of the soils of Cambodia. Joint publication. Phnom Penh 
 (Cambodia): Royal Cambodian Government Soil Commission/USAID.
 
+Save Cambodia's Wildlife. "Agriculture." Atlas of Cambodia: maps on socio-economic development and environment. Second ed. Phnom Penh, 2014. 137. Print.
+
 Contact
 
 Save Cambodia's Wildlife (SCW)  
 info@cambodiaswildlife.org  
 +855 23 88 20 35  
 http://cambodiaswildlife.org  
-6Eo, St.570, Sangat Boeung Kak 2, Khan Tuol Kork, Phnom Penh, Cambodia  
+6Eo, St. 570, Sangat Boeung Kak 2, Khan Tuol Kork, Phnom Penh, Cambodia  
 
 Metadata Reference
 
@@ -104,7 +106,7 @@ Open Development Cambodia
 contact@opendevcam.net
 +855 23 221 164
 http://www.opendevelopmentcambodia.net
-43, St 208, S/K Boeung Riang, Khan Daun Penh, Phnom Penh, Cambodia
+43, St. 208, Sangkat Boeung Riang, Khan Daun Penh, Phnom Penh, Cambodia
 
 Attributes
 
