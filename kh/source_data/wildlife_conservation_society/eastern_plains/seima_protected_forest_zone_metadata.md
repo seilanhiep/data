@@ -1,6 +1,6 @@
 Title
 
-Eastern Plains Protected Area (in Cambodia)
+Eastern Plains Protected Area in Cambodia
 
 Description
 
@@ -61,14 +61,15 @@ Completeness
 
 There are no known issues with completeness.
 
-
 Processes
 
-Data were provided to Open Development Cambodia directly by Save Cambodia's Wildlife's 2013 Atlas Working Group in ERSI Shapefile format. The data were exported to geoJSON and shapefile format.
+Data were provided to Open Development Cambodia directly by Save Cambodia's Wildlife's 2013 Atlas Working Group in ESRI Shapefile format. The coordinate reference system was changed from WGS 84 Zone 48 N to WGS 84 and the data was exported in both ESRI Shapefile and geoJSON formats.
 
 Sources
 
 Save Cambodia's Wildlife. "Biodiversity." Atlas of Cambodia: maps on socio-economic development and environment. Second ed. Phnom Penh, 2014. 30-31. Print.
+
+Wildlife Conservation Society. 2013.
 
 Contact
 
@@ -77,7 +78,6 @@ info@cambodiaswildlife.org
 +855 23 88 20 35  
 http://cambodiaswildlife.org  
 6Eo, St. 570, Sangkat Boeung Kak 2, Khan Tuol Kork, Phnom Penh, Cambodia  
-
 
 Metadata Reference
 
