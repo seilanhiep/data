@@ -64,7 +64,7 @@ Data were provided to Open Development Cambodia directly by Save Cambodia's Wild
 
 Sources
 
-National Committee for Sub-National Democratization and Development, Government of Cambodia. Commune Database 2011. Phnom Penh, 2011.
+National Committee for Sub-National Democratic Development, Government of Cambodia. Commune Database 2011. Phnom Penh, 2011.
 
 Save Cambodia's Wildlife. "Agriculture." Atlas of Cambodia: maps on socio-economic development and environment. Second ed. Phnom Penh, 2014. 135, 141-145. Print.
 
