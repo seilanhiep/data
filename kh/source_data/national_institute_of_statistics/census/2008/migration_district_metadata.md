@@ -8,7 +8,7 @@ This vector dataset provides the net migration rate by district in Cambodia, as 
 
 Format
 
-CSV
+csv
 
 Language
 
