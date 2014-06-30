@@ -1,14 +1,14 @@
 Title
 
-Commune Census Data 2011
+Commune Database of Cambodia (2011)
 
 Description
  
-The Commune Database is produced by the NCDD (National Committee for Subnational Democratic Development) and contains quantitative data about size in terms of land area and family/household indicators (rice land, electricity, latrines, domestic violence) for each commune in Cambodia as well as agricultural and livestock production.
+The Commune Database is produced by the NCDD (National Committee for Subnational Democratic Development). This file contains excerpts of the Database, namely quantitative data about size in terms of land area and family/household indicators (rice land, electricity, latrines, domestic violence) for each commune in Cambodia as well as agricultural and livestock production. Data were provided to us in vector format by Save Cambodia's Wildlife's Atlas Working Group.
 
 Format
 
-CSV
+csv
 
 Language
 
@@ -16,7 +16,7 @@ en
 
 Download URL
 
-not found
+https://raw.githubusercontent.com/OpenDevelopmentMekong/data/master/kh/source_data/national_committee_for_subnational_democratic_development/commune_database/2011/commune_census_data_2011.csv
 
 Access and Use Constraints
 
@@ -24,7 +24,7 @@ Access and Use Constraints
 
 License
 
-CC BY SA
+
 
 Date Created
 
@@ -32,11 +32,11 @@ Date Created
 
 Date Uploaded
 
-0000-00-00
+2014-06-19
 
 Date Last Updated
 
-n/a
+NA
 
 Temporal Coverage
 
@@ -60,37 +60,47 @@ ODC does not provide access to the full Commune Database since it is not already
 
 Processes
 
-
+Data were provided to Open Development Cambodia directly by Save Cambodia's Wildlife's 2013 Atlas Working Group in ESRI Shapefile format. Commune-level data were combined and exported in CSV format.
 
 Sources
 
 National Committee for Sub-National Democratization and Development, Government of Cambodia. Commune Database 2011. Phnom Penh, 2011.
-Save Cambodia's Wildlife. "Agricultre." Atlas of Cambodia: maps on socio-economic development and environment. Second ed. Phnom Penh, 2014. 135, 141-145. Print.
+
+Save Cambodia's Wildlife. "Agriculture." Atlas of Cambodia: maps on socio-economic development and environment. Second ed. Phnom Penh, 2014. 135, 141-145. Print.
+
 Save Cambodia's Wildlife. "Gender." Atlas of Cambodia: maps on socio-economic development and environment. Second ed. Phnom Penh, 2014. 115. Print.
+
 Save Cambodia's Wildlife. "Health." Atlas of Cambodia: maps on socio-economic development and environment. Second ed. Phnom Penh, 2014. 66. Print.
+
 Save Cambodia's Wildlife. "Energy." Atlas of Cambodia: maps on socio-economic development and environment. Second ed. Phnom Penh, 2014. 165. Print.
 
 Contact
 
 National Committee for Subnational Democratic Development
 info@ncdd.gov.kh
-(+855) 23 720 038 / 720 061
++855 23 720 038 / 720 061
 http://www.ncdd.gov.kh/en/
+     
+Save Cambodia's Wildlife (SCW)  
+info@cambodiaswildlife.org  
++855 23 88 20 35  
+http://cambodiaswildlife.org  
+6Eo, St.570, Sangkat Boeung Kak 2, Khan Tuol Kork, Phnom Penh, Cambodia  
 
 Metadata Reference
 
 Metadata last updated on 2014-06-30. For inquiries contact:
 
-Open Development Cambodia
-info@opendevcam.net
-(+855) 23 224 782 / 23 221 164
-www.opendevcam.net
-43 St. 208, Sangkat Boeung Riang, Khan Daun Penh, Phnom Penh, Cambodia
+Open Development Cambodia  
+contact@opendevcam.net  
++855 23 221 164  
+http://www.opendevelopmentcambodia.net  
+43, St. 208, Sangkat Boeung Riang, Khan Daun Penh, Phnom Penh, Cambodia  
 
 Attributes
 
 TT_Family / SCW : total number of families in commune
-LSize_Ha / SCW : land size (of commune?) in hectares [same as Commune_S attribute?]
+LSize_Ha / SCW : Commune area (hectares)
 
 Corn_Ha / SCW : land area for corn production (hectares)
 Corn_Yield / SCW : cassava yield per year (tonnes/hectare)
@@ -119,9 +129,10 @@ Rbuff / SCW : ratio of buffaloes raised to buffalo farms
 RLUn_1Ha_N / SCW : number of families with rice land under 1 hectare
 RLUn_1Ha_P / SCW : percentage of families with rice land under 1 hectare
 Per_HH_El / SCW : percentage of households with electricity
+
 Fami_Impro / SCW : number of families with improved latrines
 Fami_Unim / SCW : number of families with unimproved latrines
 RatImpLatH / SCW : ratio of improved latrines to households
+
 RiField_Ha / SCW : rice field size (hectares)
-Commune_S / SCW : commune size (hectares) [same as LSize_Ha attribute?]
 Ratio / SCW : ratio of rice field size to commune size
