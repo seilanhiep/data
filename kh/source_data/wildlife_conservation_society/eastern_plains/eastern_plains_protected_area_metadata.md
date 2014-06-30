@@ -98,7 +98,7 @@ Type / government of Cambodia : Type of protected area
 Designate / government of Cambodia : Document designating protected status     
 Sign_Year / government of Cambodia : year of signature  
 Mgt_Agency / government of Cambodia : Government agency responsible for management  
-Provinces / government of Cambodia : Province
+Provinces / government of Cambodia : Province  
 Current_Ha / government of Cambodia : current size (in hectares)  
 Area_Kilom / government of Cambodia : area size (in square kilometer)  
 Perimeter_ / government of Cambodia : perimeter  
