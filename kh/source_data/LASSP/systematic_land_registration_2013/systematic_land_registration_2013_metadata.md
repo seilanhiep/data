@@ -4,7 +4,7 @@ Systematic Land Registration in Cambodia (2013)
 
 Description
 
-This dataset describes describes the status of systematic land registration in Cambodia's communes by March 2013, as given in the Cambodian Ministry of Land Management's Land Administration Sub-Sector Program (LASSP) 2013 newsletter.
+This dataset describes describes the status of systematic land registration in Cambodia's communes by March 2013, as given in the Cambodian Ministry of Land Management's Land Administration Sub-Sector Program (LASSP) 2013 newsletter. Data were provided to us in vector format by Save Cambodia's Wildlife's Atlas Working Group.
 
 Format
 
