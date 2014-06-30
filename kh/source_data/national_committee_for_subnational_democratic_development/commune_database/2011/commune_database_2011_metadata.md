@@ -97,41 +97,42 @@ http://www.opendevelopmentcambodia.net
 
 Attributes
 
-TT_Family / SCW : total number of families in commune  
-LSize_Ha / SCW : Commune area (hectares)  
+TT_Family / NCDD : total number of families in commune  
+LSize_Ha / NCDD : Commune area (hectares)  
 
-Corn_Ha / SCW : land area for corn production (hectares)  
-Corn_Yield / SCW : cassava yield per year (tonnes/hectare)  
-Cass_Ha / SCW : land area for cassava production (hectares)  
-Cass_Yield / SCW : cassava yield per year (tonnes/hectare)  
-Cash_Ha / SCW : land area for cashew producion (hectares)  
-Cash_Yield / SCW : cashew yield per year (tonnes/hectare)   
-Mang_Ha / SCW : land area for mango production (tonne/hectare)  
-Mang_Yield / SCW : mango yield per year (tonnes/hectare)  
+Corn_Ha / NCDD : land area for corn production (hectares)  
+Corn_Yield / NCDD : cassava yield per year (tonnes/hectare)  
+Cass_Ha / NCDD : land area for cassava production (hectares)  
+Cass_Yield / NCDD : cassava yield per year (tonnes/hectare)  
+Cash_Ha / NCDD : land area for cashew producion (hectares)  
+Cash_Yield / NCDD : cashew yield per year (tonnes/hectare)   
+Mang_Ha / NCDD : land area for mango production (tonne/hectare)  
+Mang_Yield / NCDD : mango yield per year (tonnes/hectare)  
 
-PigFarm / SCW : number of pig farms  
-PigRaised / SCW : number of pigs raised  
-ChickFarm / SCW : number of chicken farms  
-ChickRaise / SCW : number of chickens raised  
-DuckFarm / SCW : number of duck farms  
-DuckRaised / SCW : number of ducks raised  
-CowFarm / SCW : number of cow farms  
-CowRaised / SCW : number of cows raised  
-BuffFarm / SCW : number of buffalo farms  
-BuffRaised / SCW : number of buffaloes raised  
-Rpig / SCW : ratio of pigs raised to pig farms  
-Rpoultry / SCW : ratio of poultry raised to poultry farms  
-Rcow / SCW : ratio of cows raised to cow farms  
-Rbuff / SCW : ratio of buffaloes raised to buffalo farms  
+PigFarm / NCDD : number of pig farms  
+PigRaised / NCDD : number of pigs raised  
+ChickFarm / NCDD : number of chicken farms  
+ChickRaise / NCDD : number of chickens raised  
+DuckFarm / NCDD : number of duck farms  
+DuckRaised / NCDD : number of ducks raised  
+CowFarm / NCDD : number of cow farms  
+CowRaised / NCDD : number of cows raised  
+BuffFarm / NCDD : number of buffalo farms  
+BuffRaised / NCDD : number of buffaloes raised  
+Rpig / NCDD : ratio of pigs raised to pig farms  
+Rpoultry / NCDD : ratio of poultry raised to poultry farms  
+Rcow / NCDD : ratio of cows raised to cow farms  
+Rbuff / NCDD : ratio of buffaloes raised to buffalo farms  
 
-RLUn_1Ha_N / SCW : number of families with rice land under 1 hectare  
-RLUn_1Ha_P / SCW : percentage of families with rice land under 1 hectare
+RLUn_1Ha_N / NCDD : number of families with rice land under 1 hectare  
+RLUn_1Ha_P / NCDD : percentage of families with rice land under 1 hectare
 
-Per_HH_El / SCW : percentage of households with electricity  
+Per_HH_El / NCDD : percentage of households with electricity  
 
-Fami_Impro / SCW : number of families with improved latrines  
-Fami_Unim / SCW : number of families with unimproved latrines  
-RatImpLatH / SCW : ratio of improved latrines to households  
+Fami_Impro / NCDD : number of families with improved latrines  
+Fami_Unim / NCDD : number of families with unimproved latrines  
+RatImpLatH / NCDD : ratio of improved latrines to households  
 
-RiField_Ha / SCW : rice field size (hectares)  
-Ratio / SCW : ratio of rice field size to commune size  
+RiField_Ha / NCDD : rice field size (hectares)  
+Ratio / NCDD : ratio of rice field size to commune size  
+
