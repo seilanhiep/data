@@ -1,10 +1,10 @@
 **Title**
 
-Urban Density
+Urban Density in Cambodia (2011)
 
 **Description**
 
-This vector dataset provides the urban density in Cambodia, as provided by United Nations Population Fund (UNFPA).
+This vector dataset provides the urban density in Cambodia, as given by the United Nations Population Fund (UNFPA). Data were provided to us by Save Cambodia's Wildlife's Atlas Working Group.
 
 **Format**
 
