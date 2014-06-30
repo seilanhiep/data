@@ -89,8 +89,8 @@ www.opendevcam.net
 
 Attributes
 
-TT_Family / SCW : number of families in commune
-LSize_Ha / SCW : land size in hectares
+TT_Family / SCW : total number of families in commune
+LSize_Ha / SCW : land size (of commune?) in hectares [same as Commune_S attribute?]
 
 Corn_Ha / SCW : land area for corn production (hectares)
 Corn_Yield / SCW : cassava yield per year (tonnes/hectare)
@@ -116,12 +116,12 @@ Rpoultry / SCW : ratio of poultry raised to poultry farms
 Rcow / SCW : ratio of cows raised to cow farms
 Rbuff / SCW : ratio of buffaloes raised to buffalo farms
 
-RLUn_1Ha_N / SCW : 
-RLUn_1Ha_P / SCW : 
+RLUn_1Ha_N / SCW : number of families with rice land under 1 hectare
+RLUn_1Ha_P / SCW : percentage of families with rice land under 1 hectare
 Per_HH_El / SCW : percentage of households with electricity
-Fami_Impro / SCW : number(?) of families improved
-Fami_Unim / SCW : number(?) of families unimproved
+Fami_Impro / SCW : number of families with improved latrines
+Fami_Unim / SCW : number of families with unimproved latrines
 RatImpLatH / SCW : ratio of improved latrines to households
 RiField_Ha / SCW : rice field size (hectares)
-Commune_S / SCW : commune size (?)
-Ratio / SCW : ratio of ? to ?
+Commune_S / SCW : commune size (hectares) [same as LSize_Ha attribute?]
+Ratio / SCW : ratio of rice field size to commune size
