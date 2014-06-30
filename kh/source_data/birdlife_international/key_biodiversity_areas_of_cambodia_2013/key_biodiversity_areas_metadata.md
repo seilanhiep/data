@@ -104,7 +104,7 @@ IBA_Code/BirdLife International:The unique ID for IBA.
 PRIORITY/Conservation International: Whether the KBA has priority status  
 ISO3/Conservation International: Three-letter country code  
 Code/Conservation International: Zone code  
-LSize_Skm/Conservation International: Area size (sq.km)
-LSize_Ha/Conservation International: Area size (hectare)  
+LSize_Skm/Conservation International: Area size (square kilometers)  
+LSize_Ha/Conservation International: Area size (hectares)  
 
 
