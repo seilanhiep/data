@@ -64,7 +64,7 @@ Data were provided to Open Development Cambodia directly by Save Cambodia's Wild
 
 Sources
 
-Commune Database 2011 (MoP, NIS)
+Ministry of Planning, National Institute of Statistics, Government of Cambodia. Cambodian Demographic Census 2011. Phnom Penh, 2011.
 
 Save Cambodia's Wildlife. "Incidence of International Migration of Cambodia Citizens by Commune 2011." Atlas of Cambodia: maps on socio-economic development and environment. Second ed. Phnom Penh, 2014. 94-95. Print.
 
