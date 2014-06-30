@@ -1,6 +1,6 @@
 Title
 
-Population Projections of Cambodia (2010)
+Population Projections for 2030 in Cambodia (2010)
 
 Description
 
@@ -64,9 +64,7 @@ Data were provided to Open Development Cambodia directly by Save Cambodia's Wild
 
 Sources
 
-National Institute of Statistics 2010c, Report 12. Phnom Penh, 2010
-
-Department of Geography (DoG), 2005
+National Institute of Statistics, Government of Cambodia. Report 12. Phnom Penh, 2010.
 
 Save Cambodia's Wildlife. "Demography." Atlas of Cambodia: maps on socio-economic development and environment. Second ed. Phnom Penh, 2014. 86-87. Print.
 
