@@ -70,8 +70,6 @@ Save Cambodia's Wildlife. "Agriculture." Atlas of Cambodia: maps on socio-econom
 
 Save Cambodia's Wildlife. "Gender." Atlas of Cambodia: maps on socio-economic development and environment. Second ed. Phnom Penh, 2014. 115. Print.
 
-Save Cambodia's Wildlife. "Health." Atlas of Cambodia: maps on socio-economic development and environment. Second ed. Phnom Penh, 2014. 66. Print.
-
 Save Cambodia's Wildlife. "Energy." Atlas of Cambodia: maps on socio-economic development and environment. Second ed. Phnom Penh, 2014. 165. Print.
 
 Contact
