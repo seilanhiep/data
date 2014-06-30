@@ -4,7 +4,7 @@ Village Distance to Upper Secondary Schools in Cambodia (2013)
 
 Description
 
-This dataset provides the distances students need to travel to reach upper secondary schools for each village in Cambodia. Data were provided to us in vector format by Save Cambodia's Wildlife's Atlas Working Group.
+This dataset provides the distances students need to travel to reach upper secondary schools for each village in Cambodia. Geographic data is encoded in the WGS 84 coordinate reference system. Data were provided to us in vector format by Save Cambodia's Wildlife's Atlas Working Group.
 
 Format
 
