@@ -16,7 +16,7 @@ en
 
 Download URL
 
-https://raw.githubusercontent.com/OpenDevelopmentMekong/data/master/kh/source_data/national_committee_for_subnational_democratic_development/commune_database/2011/commune_database_2011.csv
+https://raw.githubusercontent.com/OpenDevelopmentMekong/data/master/kh/source_data/national_committee_for_subnational_democratic_development/commune_database/2011/commune_database_2011_provincial_level_metadata.csv
 
 Access and Use Constraints
 
