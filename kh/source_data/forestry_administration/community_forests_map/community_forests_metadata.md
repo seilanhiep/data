@@ -4,7 +4,7 @@ Community Forests in Cambodia (2013)
 
 Description
 
-This asset contains the location and status of applications for community forestry status in Cambodia in 2013, given by the Forestry Administration. Data were provided to us in vector format by Save Cambodia's Wildlife's Atlas Working Group.
+This asset contains the location and status of applications for community forestry status in Cambodia in 2013, given by the Forestry Administration. Geographic data is encoded in the WGS 84 coordinate reference system. Data were provided to us in vector format by Save Cambodia's Wildlife's Atlas Working Group.
 
 Format
 
