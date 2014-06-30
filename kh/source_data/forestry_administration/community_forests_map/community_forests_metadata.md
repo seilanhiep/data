@@ -17,9 +17,7 @@ en
 Download URL
 
 https://raw.githubusercontent.com/OpenDevelopmentMekong/data/master/kh/source_data/forestry_administration/community_forests_map/community_forests_map.csv
-
 https://raw.githubusercontent.com/OpenDevelopmentMekong/data/master/kh/source_data/forestry_administration/community_forests_map/community_forests_map.geojson
-
 https://github.com/OpenDevelopmentMekong/data/blob/master/kh/source_data/forestry_administration/community_forests_map/community_forests_map_shp.zip
 
 Access and Use Constraints
