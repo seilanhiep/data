@@ -90,12 +90,9 @@ http://www.opendevelopmentcambodia.net
 
 Attributes
 
-Name / Inland Fisheries Research and Development Institute : Unknown
-Zone / Inland Fisheries Research and Development Institute : Ecological zone
-Consump / Inland Fisheries Research and Development Institute : Total consumption of animal protein
-Min / Inland Fisheries Research and Development Institute : Unknown
-Max / Inland Fisheries Research and Development Institute : Unknown
-Fconsump / Inland Fisheries Research and Development Institute : Fish consumption
-Geometry / Inland Fisheries Research and Development Institute : Unknown
-Coordinates / Inland Fisheries Research and Development Institute : Location of ecological zone
-
+Name / Inland Fisheries Research and Development Institute : Unknown  
+Zone / Inland Fisheries Research and Development Institute : Ecological zone  
+Consump / Inland Fisheries Research and Development Institute : Total consumption of animal protein  
+Min / Inland Fisheries Research and Development Institute : Unknown  
+Max / Inland Fisheries Research and Development Institute : Unknown  
+Fconsump / Inland Fisheries Research and Development Institute : Fish consumption  
