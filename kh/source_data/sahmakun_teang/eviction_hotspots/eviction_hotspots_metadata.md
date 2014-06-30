@@ -1,6 +1,6 @@
 Title
 
-Eviction and Relocation Hotspots (2013)   
+Eviction and Relocation Hotspots in Cambodia (2013)   
 
 Description
 
@@ -8,7 +8,7 @@ This asset provides the area of eviction hotspots and relocation hotspots in Cam
 
 Format
 
-kmz; geotiff
+geotiff; kmz
 
 Language
 
@@ -66,9 +66,7 @@ Data were provided to Open Development Cambodia directly by Save Cambodia's Wild
 
 Sources
 
-Sahmakum Teang Tnaut (STT). Phnom Penh, 2013  
-
-Department of Geography (DoG). Phnom Penh, 2005  
+Sahmakum Teang Tnaut. Phnom Penh, 2013.
 
 Save Cambodia's Wildlife. "Urban." Atlas of Cambodia: maps on socio-economic development and environment. Second ed. Phnom Penh, 2014. 106. Print.
 
