@@ -8,7 +8,7 @@ This vector dataset provides incidence of international migration of Cambodia ci
 
 Format
 
-CSV
+csv
 
 Language
 
