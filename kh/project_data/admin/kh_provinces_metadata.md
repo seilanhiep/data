@@ -4,7 +4,7 @@ Cambodia Province Census Boundaries (2011)
  
 Description
  
-This dataset provides Cambodia's province boundaries (in GeoJSON, KML, and TopoJSON) and names and IDs (in CSV, GeoJSON, KML). The information was created by updating the National Institute of Statistics' 2008 census using the 2011 Economic Census.
+This dataset provides Cambodia's province boundaries (in GeoJSON, KML, and TopoJSON) and names and IDs (in CSV, GeoJSON, KML). Geographic data is encoded in the WGS 84 coordinate reference system. The information was created by updating the National Institute of Statistics' 2008 census using the 2011 Economic Census.
  
 Format
  
