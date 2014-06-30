@@ -134,5 +134,4 @@ Fami_Unim / NCDD : number of families with unimproved latrines
 RatImpLatH / NCDD : ratio of improved latrines to households  
 
 RiField_Ha / NCDD : rice field size (hectares)  
-Ratio / NCDD : ratio of rice field size to commune size  
-
+Ratio / NCDD : ratio of rice field size to commune size
