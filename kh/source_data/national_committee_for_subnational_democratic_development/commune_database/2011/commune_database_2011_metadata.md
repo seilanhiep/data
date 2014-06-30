@@ -1,6 +1,6 @@
 Title
 
-Commune Database of Cambodia (2011)
+Commune Database of Cambodia, Commune-Level (2011)
 
 Description
  
