@@ -71,9 +71,9 @@ Data were provided to Open Development Cambodia directly by Save Cambodia's Wild
 
 Sources
 
-Sandoval, Rebeca. "Rice Ecosystems." Atlas of Cambodia: maps on socio-economic development and environment. Second ed. Phnom Penh: Save Cambodia's Wildlife, 2014. 139-140. Print.
+IRRI Project, CIRP (date unknown).
 
-IRRI Project, CIRP (date unknown)
+Save Cambodia's Wildlife. "Rice Ecosystems." Atlas of Cambodia: maps on socio-economic development and environment. Second ed. Phnom Penh, 2014. 139-140. Print.
 
 Contact
 
