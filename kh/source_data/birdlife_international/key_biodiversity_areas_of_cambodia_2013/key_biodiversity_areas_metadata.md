@@ -32,11 +32,11 @@ https://github.com/OpenDevelopmentMekong/data/blob/master/kh/source_data/birdlif
 
 2013-00-00
 
-**Date First Uploaded by ODM**
+**Date Uploaded**
 
 2014-06-19
 
-**Date Last Updated by ODM**
+**Date Last Updated**
 
 NA
 
