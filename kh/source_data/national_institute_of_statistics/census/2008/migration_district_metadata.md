@@ -1,10 +1,10 @@
 Title
 
-Net Migration Rate by District
+Net Migration Rate by in Cambodia by District (2008)
 
 Description
 
-This vector dataset provides the net migration rate by district in Cambodia, as provided by Cambodian Demographic Census 2008 (NIS, MoP)
+This vector dataset provides the net migration rate by district in Cambodia, as provided by Cambodian Demographic Census 2008 (NIS, MoP). Data were provided to us in vector format by Save Cambodia's Wildlife's Atlas Working Group.
 
 Format
 
@@ -64,39 +64,39 @@ Data were provided to Open Development Cambodia directly by Save Cambodia's Wild
 
 Sources
 
-Save Cambodia's Wildlife. "Net Migration by District." Atlas of Cambodia: maps on socio-economic development and environment. Second ed. Phnom Penh, 2014. 90-91. Print.
+Ministry of Planning, National Institute of Statistics, Government of Cambodia. Cambodian Demographic Census 2008. Phnom Penh, 2008.
 
-Cambodian Demographic Census 2008 (NIS, MoP).
+Save Cambodia's Wildlife. "Net Migration by District." Atlas of Cambodia: maps on socio-economic development and environment. Second ed. Phnom Penh, 2014. 90-91. Print.
 
 Contact
 
-Save Cambodia's Wildlife (SCW)
-info@cambodiaswildlife.org
-+855 23 88 20 35
-http://cambodiaswildlife.org
-6Eo, St. 570, Sangkat Boeung Kak 2, Khan Tuol Kork, Phnom Penh, Cambodia 
+Save Cambodia's Wildlife (SCW)  
+info@cambodiaswildlife.org  
++855 23 88 20 35  
+http://cambodiaswildlife.org  
+6Eo, St. 570, Sangkat Boeung Kak 2, Khan Tuol Kork, Phnom Penh, Cambodia   
 
 Metadata Reference
 
 Metadata last updated on 2014-06-26. For inquiries contact:
 
-Open Development Cambodia
-contact@opendevcam.net
-+855 23 221 164
-http://www.opendevelopmentcambodia.net
-43, St. 208, Sangkat Boeung Riang, Khan Daun Penh, Phnom Penh, Cambodia 
+Open Development Cambodia  
+contact@opendevcam.net  
++855 23 221 164  
+http://www.opendevelopmentcambodia.net  
+43, St. 208, Sangkat Boeung Riang, Khan Daun Penh, Phnom Penh, Cambodia   
 
 Attributes
 
-Dis_Code / Cambodian Demographic Census 2008 (NIS, MoP) : Government District Code
-District / Cambodian Demographic Census 2008 (NIS, MoP) : District 
-TOTPOP / Cambodian Demographic Census 2008 (NIS, MoP) : Total Population
-DENSITY / Cambodian Demographic Census 2008 (NIS, MoP) : Density
-NB_OUTMIGR / Cambodian Demographic Census 2008 (NIS, MoP) : Number of Emigrant out
-MIGRATION / Cambodian Demographic Census 2008 (NIS, MoP) : Net Number of Migrant 
-NMR_PER100 / Cambodian Demographic Census 2008 (NIS, MoP) : Net of Rate Migration
-Nb_InMIG_1 / Cambodian Demographic Census 2008 (NIS, MoP) : Number of Immigrant
-LSize_Skm / Cambodian Demographic Census 2008 (NIS, MoP) : Land size (Unit Km²)
+Dis_Code / Cambodian Demographic Census 2008 (NIS, MoP) : Government District Code  
+District / Cambodian Demographic Census 2008 (NIS, MoP) : District  
+TOTPOP / Cambodian Demographic Census 2008 (NIS, MoP) : Total Population  
+DENSITY / Cambodian Demographic Census 2008 (NIS, MoP) : Density  
+NB_OUTMIGR / Cambodian Demographic Census 2008 (NIS, MoP) : Number of Emigrant out    
+MIGRATION / Cambodian Demographic Census 2008 (NIS, MoP) : Net Number of Migrant   
+NMR_PER100 / Cambodian Demographic Census 2008 (NIS, MoP) : Net of Rate Migration  
+Nb_InMIG_1 / Cambodian Demographic Census 2008 (NIS, MoP) : Number of Immigrant  
+LSize_Skm / Cambodian Demographic Census 2008 (NIS, MoP) : Land size (square kilometers)  
 
 
 
