@@ -64,7 +64,7 @@ There are no known issues with completeness.
 
 Processes
 
-Data were provided to Open Development Cambodia directly by Save Cambodia's Wildlife's 2013 Atlas Working Group in ERSI Shapefile format. The data were exported to geoJSON and shapefile format.
+Data were provided to Open Development Cambodia directly by Save Cambodia's Wildlife's 2013 Atlas Working Group in ERSI Shapefile format. The data were exported to geoJSON and shapefile format. The coordinate reference system was changed from WGS 84 Zone 48 N to WGS 84 and the data was exported in both ESRI Shapefile and geoJSON formats.
 
 Sources
 
