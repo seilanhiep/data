@@ -66,14 +66,11 @@ Data were provided to Open Development Cambodia directly by Save Cambodia's Wild
 
 Sources
 
-BirdLife International, Conservational International, the Critical Ecosystem Partnership Fund and WWF Cambodia Programme. Key Biodiversity Areas of Cambodia. BirdLife International, Cambridge, UK and Conservational International, Arlington, VA, 2013.
+Wildlife Conservation Society, Conservation International, Forestry Administration, ASEAN Regional Center for Biodiversity, UNEP.
 
-Save Cambodia's Wildlife. "Biodiversity." Atlas of Cambodia: maps on socio-economic development and environment. Second ed. Phnom Penh, 2014. 31-32. Print.
+Save Cambodia's Wildlife. "Biodiversity." Atlas of Cambodia: maps on socio-economic development and environment. Second ed. Phnom Penh, 2014. 27. Print.
 
 Contact
-
-BirdLife International  
-science@birdlife.org  
 
 Conservation International  
 data@conservation.org  
@@ -97,9 +94,9 @@ http://www.opendevelopmentcambodia.net
 
 Attributes
 
-Name/Conservation International: Name of the protected areas   
-LSize_Ha/Conservation International: Area size (hectare)     
-Status/Conservation International: National park, wildlife santuary, protected forests or multiple use area  
-Category/Conservation International: The value is "protected forests" if the status is protected forests, otherwise blank 
+Name/WCS: Name of the protected areas   
+LSize_Ha/WCS: Area size (hectare)     
+Status/WCS: National park, wildlife santuary, protected forests or multiple use area  
+Category/WCS: The value is "protected forests" if the status is protected forests, otherwise blank 
 
 
