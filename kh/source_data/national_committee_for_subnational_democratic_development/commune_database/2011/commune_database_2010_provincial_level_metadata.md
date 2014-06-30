@@ -1,6 +1,6 @@
 Title
 
-Commune Database 2010, Provincial Level
+Commune Database of Cambodia, Provincial Level (2010)
 
 Description
 
@@ -8,7 +8,7 @@ Province-level data is derived from the Commune Database, produced by the NCDD (
 
 Format
 
-CSV
+csv
 
 Language
 
@@ -93,10 +93,10 @@ http://www.opendevelopmentcambodia.net
 
 Attributes
 
-PhyVio / NCDD : number of reported cases of physical violence
-SexVio / NCDD : number of reported cases of sexual violence
-MenVio / NCDD : number of reported cases of mental violence
-HHEcoVio / NCDD : number of reported cases of household/economic violence
-TT_Dom_Vio / NCDD : total number of reported cases of domestic violence (physical, sexual, mental, and household/economic)
+PhyVio / NCDD : number of reported cases of physical violence  
+SexVio / NCDD : number of reported cases of sexual violence  
+MenVio / NCDD : number of reported cases of mental violence  
+HHEcoVio / NCDD : number of reported cases of household/economic violence  
+TT_Dom_Vio / NCDD : total number of reported cases of domestic violence (physical, sexual, mental, and household/economic)  
 
 
