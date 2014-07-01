@@ -1,76 +1,76 @@
-**Title**
+Title
 
 Key Biodiversity Areas (KBA) and Important Bird Areas (IBA) of Cambodia (2013)
 
-**Description**
+Description
 
 This asset provides boundaries of Key Biodiversity Areas (KBA) in Cambodia, the development status and priority status of each, and whether each KBA is a BirdLife International-designated Important Bird Area (IBA) as well. Geographic data is encoded in the WGS 84 coordinate reference system. Data were provided to us in vector format by Save Cambodia's Wildlife's Atlas Working Group.
 
-**Format**
+Format
 
 geojson; shp
 
-**Language**
+Language
 
 en
 
-**Download URL**
+Download URL
 
 https://raw.githubusercontent.com/OpenDevelopmentMekong/data/master/kh/source_data/birdlife_international/key_biodiversity_areas_of_cambodia_2013/key_biodiversity_areas.geojson
 
 https://github.com/OpenDevelopmentMekong/data/blob/master/kh/source_data/birdlife_international/key_biodiversity_areas_of_cambodia_2013/key_biodiversity_areas_shp.zip
 
-**Access and Use Constraints**
+Access and Use Constraints
 
 
 
-**License**
+License
 
 
 
-**Date Created**
+Date Created
 
 2013-00-00
 
-**Date Uploaded**
+Date Uploaded
 
 2014-06-19
 
-**Date Last Updated**
+Date Last Updated
 
 NA
 
-**Temporal Coverage**
+Temporal Coverage
 
 Not found
 
-**Spatial Coverage**
+Spatial Coverage
 
 Cambodia
 
-**Accuracy**
+Accuracy
 
 There are no known issues with accuracy.
 
-**Logical Consistency**
+Logical Consistency
 
 There are no known issues with logical consistency.
 
-**Completeness**
+Completeness
 
 There are no known issues with completeness.
 
-**Processes**
+Processes
 
 Data were provided to Open Development Cambodia directly by Save Cambodia's Wildlife's 2013 Atlas Working Group in ESRI Shapefile format. The coordinate reference system was changed from WGS 84 Zone 48 N to WGS 84 and the data was exported in both ESRI Shapefile and geoJSON formats.
 
-**Sources**
+Sources
 
 BirdLife International, Conservational International, the Critical Ecosystem Partnership Fund and WWF Cambodia Programme. Key Biodiversity Areas of Cambodia. BirdLife International, Cambridge, UK and Conservational International, Arlington, VA, 2013.
 
 Save Cambodia's Wildlife. "Biodiversity." Atlas of Cambodia: maps on socio-economic development and environment. Second ed. Phnom Penh, 2014. 31-36. Print.
 
-**Contact**
+Contact
 
 BirdLife International  
 science@birdlife.org  
@@ -84,7 +84,7 @@ info@cambodiaswildlife.org
 http://cambodiaswildlife.org  
 6Eo, St.570, Sangkat Boeung Kak 2, Khan Tuol Kork, Phnom Penh, Cambodia  
 
-**Metadata Reference**
+Metadata Reference
 
 Metadata last updated on 2014-06-19. For inquiries contact:
 
@@ -95,7 +95,7 @@ contact@opendevcam.net
 http://www.opendevelopmentcambodia.net  
 43, St. 208, Sangkat Boeung Riang, Khan Daun Penh, Phnom Penh, Cambodia  
 
-**Attributes**
+Attributes
 
 Name/Conservation International: Name of the key biodiversity area  
 Dev_Status/Conservation International: Development status  
