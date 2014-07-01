@@ -8,7 +8,7 @@ This asset provides the area of eviction hotspots and relocation hotspots in Cam
 
 Format
 
-geotiff; kmz
+geojson; geotiff; kmz; shp
 
 Language
 
@@ -16,9 +16,10 @@ en
 
 Download URL
 
-https://github.com/OpenDevelopmentMekong/data/blob/master/kh/source_data/sahmakun_teang/eviction_hotspots/eviction_hotspots.kmz
-
-https://github.com/OpenDevelopmentMekong/data/blob/master/kh/source_data/sahmakun_teang/eviction_hotspots/eviction_hotspots.zip
+https://github.com/OpenDevelopmentMekong/data/blob/master/kh/source_data/sahmakun_teang/eviction_hotspots/eviction_hotspots_geojson.zip  
+https://github.com/OpenDevelopmentMekong/data/blob/master/kh/source_data/sahmakun_teang/eviction_hotspots/eviction_hotspots_tiff.zip  
+https://github.com/OpenDevelopmentMekong/data/blob/master/kh/source_data/sahmakun_teang/eviction_hotspots/eviction_hotspots.kmz  
+https://github.com/OpenDevelopmentMekong/data/blob/master/kh/source_data/sahmakun_teang/eviction_hotspots/eviction_hotspots_shp.zip  
 
 Access and Use Constraints
 
@@ -62,7 +63,7 @@ There are no known issues with completeness.
 
 Processes
 
-Data were provided to Open Development Cambodia directly by Save Cambodia's Wildlife's 2013 Atlas Working Group in ESRI Shapefile format. The data were exported in geotiff and kmz formats.
+Data were provided to Open Development Cambodia directly by Save Cambodia's Wildlife's 2013 Atlas Working Group in ESRI Shapefile format. The data were exported in GeoJSON, GeoTIFF, KMZ, and ESRI Shapefile formats.
 
 Sources
 
