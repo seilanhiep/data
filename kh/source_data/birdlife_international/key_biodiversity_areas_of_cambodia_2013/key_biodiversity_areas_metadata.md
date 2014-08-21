@@ -4,7 +4,7 @@ Key Biodiversity Areas (KBA) and Important Bird Areas (IBA) of Cambodia (2013)
 
 Description
 
-This asset provides boundaries of Key Biodiversity Areas (KBA) in Cambodia, the development status and priority status of each, and whether each KBA is a BirdLife International-designated Important Bird Area (IBA) as well. Geographic data is encoded in the WGS 84 coordinate reference system. Data were provided to us in vector format by Save Cambodia's Wildlife's Atlas Working Group.
+This asset provides boundaries of Key Biodiversity Areas (KBA) in Cambodia, the development status and priority status of each, and whether each KBA is a BirdLife International-designated Important Bird Area (IBA) as well. Geographic data is encoded in the WGS 84 coordinate reference system. Data were provided to ODC in vector format by Save Cambodia's Wildlife's Atlas Working Group.
 
 Format
 
