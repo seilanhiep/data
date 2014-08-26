@@ -84,7 +84,7 @@ Open Development Cambodia
 contact@opendevcam.net  
 +855 23 221 164  
 http://www.opendevelopmentcambodia.net  
-43, St. 208, Sangkat Boeung Riang, Khan Daun Penh, Phnom Penh, Cambodia  
+43 St. 208, Sangkat Boeung Riang, Khan Daun Penh, Phnom Penh, Cambodia  
 
 Attributes
 
