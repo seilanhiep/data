@@ -64,7 +64,7 @@ Data were provided to Open Development Cambodia directly by Save Cambodia's Wild
 
 Sources
 
-Ministry of Rural Development, Government of Cambodia. Cambodia WellMap Database 2010. Phnom Penh, 2010. http://www.cambodiawellmap.com/
+Ministry of Rural Development, Royal Government of Cambodia. Cambodia WellMap Database 2010. Phnom Penh, 2010. http://www.cambodiawellmap.com/
 
 Save Cambodia's Wildlife. "Arsenic Concentration Hotspots" Atlas of Cambodia: maps on socio-economic development and environment. Second ed. Phnom Penh, 2014. 64-65. Print.
 
