@@ -66,7 +66,7 @@ Data were provided to Open Development Cambodia directly by Save Cambodia's Wild
 
 Sources
 
-Ministry of Education, Youth and Sports, Government of Cambodia. Inventory and Location of Schools in Cambodia. Phnom Penh, 2013.
+Ministry of Education, Youth and Sports, Royal Government of Cambodia. Inventory and Location of Schools in Cambodia. Phnom Penh, 2013.
 
 Save Cambodia's Wildlife. "Education." Atlas of Cambodia: maps on socio-economic development and environment. Second ed. Phnom Penh, 2014. 72. Print.
 
