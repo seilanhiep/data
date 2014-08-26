@@ -66,7 +66,7 @@ Data were provided to Open Development Cambodia directly by Save Cambodia's Wild
 
 Sources
 
-Ministry of Education, Youth, and Sports, Government of Cambodia. Inventory and Location of Schools in Cambodia. Phnom Penh, 2013.
+Ministry of Education, Youth and Sports, Government of Cambodia. Inventory and Location of Schools in Cambodia. Phnom Penh, 2013.
 
 Save Cambodia's Wildlife. "Education." Atlas of Cambodia: maps on socio-economic development and environment. Second ed. Phnom Penh, 2014. 72. Print.
 
@@ -76,7 +76,7 @@ Save Cambodia's Wildlife (SCW)
 info@cambodiaswildlife.org  
 +855 23 88 20 35  
 http://cambodiaswildlife.org  
-6Eo, St. 570, Sangkat Boeung Kak 2, Khan Tuol Kork, Phnom Penh, Cambodia  
+6Eo St. 570, Sangkat Boeung Kak 2, Khan Tuol Kork, Phnom Penh, Cambodia  
 
 Metadata Reference
 
@@ -86,7 +86,7 @@ Open Development Cambodia
 contact@opendevcam.net  
 +855 23 221 164  
 http://www.opendevelopmentcambodia.net  
-43, St. 208, Sangkat Boeung Riang, Khan Daun Penh, Phnom Penh, Cambodia  
+43 St. 208, Sangkat Boeung Riang, Khan Daun Penh, Phnom Penh, Cambodia  
 
 Attributes
 
