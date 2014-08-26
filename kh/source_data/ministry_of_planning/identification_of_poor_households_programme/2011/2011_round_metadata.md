@@ -65,7 +65,7 @@ Data were provided to Open Development Cambodia directly by Save Cambodia's Wild
 
 Sources
 
-Ministry of Planning, Government of Cambodia. Identification of Poor Households Programme. Phnom Penh, 2011. https://web.archive.org/web/20140627084931/http://www.mop.gov.kh/Projects/IDPoor/tabid/154/Default.aspx
+Ministry of Planning, Royal Government of Cambodia. Identification of Poor Households Programme. Phnom Penh, 2011. https://web.archive.org/web/20140627084931/http://www.mop.gov.kh/Projects/IDPoor/tabid/154/Default.aspx
 
 Save Cambodia's Wildlife. "Poverty." Atlas of Cambodia: maps on socio-economic development and environment. Second ed. Phnom Penh, 2014. 76-79. Print.
 
