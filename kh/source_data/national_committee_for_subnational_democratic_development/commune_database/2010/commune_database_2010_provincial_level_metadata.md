@@ -64,7 +64,7 @@ Data were provided to Open Development Cambodia directly by Save Cambodia's Wild
 
 Sources
 
-National Committee for Sub-National Democratic Development, Government of Cambodia. Commune Database 2010. Phnom Penh, 2010.
+National Committee for Sub-National Democratic Development, Royal Government of Cambodia. Commune Database 2010. Phnom Penh, 2010.
 
 Save Cambodia's Wildlife. "Gender." Atlas of Cambodia: maps on socio-economic development and environment. Second ed. Phnom Penh, 2014. 114-115. Print.
 
