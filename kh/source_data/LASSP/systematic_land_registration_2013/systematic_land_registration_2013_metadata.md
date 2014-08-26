@@ -4,7 +4,7 @@ Systematic Land Registration in Cambodia (2013)
 
 Description
 
-This dataset describes describes the status of systematic land registration in Cambodia's communes by March 2013, as given in the Cambodian Ministry of Land Management's Land Administration Sub-Sector Program (LASSP) 2013 newsletter. Data were provided to ODC in vector format by Save Cambodia's Wildlife's Atlas Working Group.
+This dataset describes the status of systematic land registration in Cambodia's communes by March 2013, as given in the Cambodian Ministry of Land Management's Land Administration Sub-Sector Program (LASSP) 2013 newsletter. Data were provided to ODC in vector format by Save Cambodia's Wildlife's Atlas Working Group.
 
 Format
 
@@ -56,7 +56,7 @@ There are no known issues with logical consistency.
 
 Completeness
 
-This dataset provides SLR registration as of March 2013. According to Save Cambodia's Wildlife's Atlas of Cambodia, the government indended to extend SLR to all Cambodian provinces from September 2013.
+This dataset provides SLR registration as of March 2013. According to Save Cambodia's Wildlife's Atlas of Cambodia, the government intended to extend SLR to all Cambodian provinces from September 2013.
 
 Processes
 
@@ -64,7 +64,7 @@ Data were provided to Open Development Cambodia directly by Save Cambodia's Wild
 
 Sources
 
-Ministry of Land Management. Land Administration Sub-Sector Program (LASSP) newsletter. Phnom Penh, 2013.
+Ministry of Land Management, Urban Planning and Construction. Land Administration Sub-Sector Program (LASSP) newsletter. Phnom Penh, 2013.
 
 Save Cambodia's Wildlife. "Land." Atlas of Cambodia: maps on socio-economic development and environment. Second ed. Phnom Penh, 2014. 131. Print.
 
