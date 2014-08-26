@@ -64,7 +64,7 @@ Data were provided to Open Development Cambodia directly by Save Cambodia's Wild
 
 Sources
 
-National Institute of Statistics, Directorate General for Health, and ICF Macro, 2011. Cambodia Demographic 
+National Institute of Statistics, Directorate General for Health and ICF Macro, 2011. Cambodia Demographic 
 and Health Survey 2010. Phnom Penh, Cambodia and Calverton, Maryland, USA: National Institute of 
 Statistics, Directorate General for Health, and ICF Macro.
 
@@ -76,7 +76,7 @@ Save Cambodia's Wildlife (SCW)
 info@cambodiaswildlife.org  
 +855 23 88 20 35  
 http://cambodiaswildlife.org  
-6Eo, St. 570, Sangkat Boeung Kak 2, Khan Tuol Kork, Phnom Penh, Cambodia  
+6Eo St. 570, Sangkat Boeung Kak 2, Khan Tuol Kork, Phnom Penh, Cambodia  
 
 Metadata Reference
 
@@ -86,7 +86,7 @@ Open Development Cambodia
 contact@opendevcam.net  
 +855 23 221 164  
 http://www.opendevelopmentcambodia.net  
-43, St. 208, Sangkat Boeung Riang, Khan Daun Penh, Phnom Penh, Cambodia  
+43 St. 208, Sangkat Boeung Riang, Khan Daun Penh, Phnom Penh, Cambodia  
 
 Attributes
 
