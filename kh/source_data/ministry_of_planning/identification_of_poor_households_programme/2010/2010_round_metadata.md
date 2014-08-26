@@ -4,7 +4,7 @@ Identification of Households in Cambodia, Round 4 (2010)
 
 Description
 
-This dataset describes the poverty levels (1, 2, or other) covering 6,411 villages in 11 provinces. Data were provided to us in vector format by Save Cambodia's Wildlife's Atlas Working Group.
+This dataset describes the poverty levels (1, 2 or other) covering 6,411 villages in 11 provinces. Data were provided to us in vector format by Save Cambodia's Wildlife's Atlas Working Group.
 
 Format
 
@@ -74,7 +74,7 @@ Save Cambodia's Wildlife (SCW)
 info@cambodiaswildlife.org  
 +855 23 88 20 35  
 http://cambodiaswildlife.org  
-6Eo, St. 570, Sangkat Boeung Kak 2, Khan Tuol Kork, Phnom Penh, Cambodia  
+6Eo St. 570, Sangkat Boeung Kak 2, Khan Tuol Kork, Phnom Penh, Cambodia  
 
 Metadata Reference
 
@@ -84,7 +84,7 @@ Open Development Cambodia
 contact@opendevcam.net  
 +855 23 221 164  
 http://www.opendevelopmentcambodia.net  
-43, St. 208, Sangkat Boeung Riang, Khan Daun Penh, Phnom Penh, Cambodia
+43 St. 208, Sangkat Boeung Riang, Khan Daun Penh, Phnom Penh, Cambodia
 
 Attributes
 
