@@ -4,7 +4,7 @@ Soil Fertility Map (2003)
 
 Description
 
-The dataset provides soil fertility levels of different areas in Cambodia. Geographic data is encoded in the WGS 84 coordinate reference system. Data were provided to us in vector format by Save Cambodia's Wildlife's Atlas Working Group.
+The dataset provides soil fertility levels of different areas in Cambodia. Geographic data is encoded in the WGS 84 coordinate reference system. Data were provided to ODC in vector format by Save Cambodia's Wildlife's Atlas Working Group.
 
 Format
 
