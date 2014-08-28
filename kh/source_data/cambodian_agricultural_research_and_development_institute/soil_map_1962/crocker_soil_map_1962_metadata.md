@@ -23,7 +23,7 @@ This vector dataset provides the distribution of soil types in Cambodia, as prov
 * lacustrine alluvial soils
 * coastal complex
 
-Geographic data is encoded in the WGS 84 coordinate reference system. Data were provided to us in vector format by Save Cambodia's Wildlife's Atlas Working Group.
+Geographic data is encoded in the WGS 84 coordinate reference system. Data were provided to ODC in vector format by Save Cambodia's Wildlife's Atlas Working Group.
 
 Format
 
