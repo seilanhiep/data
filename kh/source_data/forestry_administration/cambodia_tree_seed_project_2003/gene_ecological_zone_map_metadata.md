@@ -4,7 +4,7 @@ Gene-Ecological Zones of Cambodia (2003)
 
 Description
 
-The dataset provides map boundaries of around 10 different zones that can be delineated and that each zone can be characterized and differentiated on the basis of its geographical location and a definable range of environmental parameters. Geographic data is encoded in the WGS 84 coordinate reference system. Data were provided to us in vector format by Save Cambodia's Wildlife's Atlas Working Group.
+The dataset provides map boundaries of around 10 different zones that can be delineated and that each zone can be characterized and differentiated on the basis of its geographical location and a definable range of environmental parameters. Geographic data is encoded in the WGS 84 coordinate reference system. Data were provided to ODC in vector format by Save Cambodia's Wildlife's Atlas Working Group.
 
 Format
 
