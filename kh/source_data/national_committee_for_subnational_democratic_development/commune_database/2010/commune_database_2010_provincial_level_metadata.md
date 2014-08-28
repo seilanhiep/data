@@ -4,7 +4,7 @@ Commune Database of Cambodia, Provincial Level (2010)
 
 Description
 
-Province-level data is derived from the Commune Database, produced by the NCDD (National Committee for Subnational Democratic Development). This file contains excerpts of the Database, namely quantitative data about domestic violence for each province in Cambodia. Data were provided to us in vector format by Save Cambodia's Wildlife's Atlas Working Group.
+Province-level data is derived from the Commune Database, produced by the NCDD (National Committee for Subnational Democratic Development). This file contains excerpts of the Database, namely quantitative data about domestic violence for each province in Cambodia. Data were provided to ODC in vector format by Save Cambodia's Wildlife's Atlas Working Group.
 
 Format
 
