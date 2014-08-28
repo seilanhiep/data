@@ -4,7 +4,7 @@ Geographical Relief of Cambodia
 
 Description
 
-This dataset describes the georelief (elevation) of Cambodia. Data were provided to us by Save Cambodia's Wildlife's Atlas Working Group.
+This dataset describes the georelief (elevation) of Cambodia. Data were provided to ODC by Save Cambodia's Wildlife's Atlas Working Group.
 
 Format
 
