@@ -4,7 +4,7 @@ Literacy Rate in Cambodia by Province (2008)
 
 Description
 
-This vector dataset provides the literacy rate in Cambodia in 2008, as given by the Cambodian Demographic Census 2008 (NIS, MoP). Data were provided to us in vector format by Save Cambodia's Wildlife's Atlas Working Group.
+This vector dataset provides the literacy rate in Cambodia in 2008, as given by the Cambodian Demographic Census 2008 (NIS, MoP). Data were provided to ODC in vector format by Save Cambodia's Wildlife's Atlas Working Group.
 
 Format
 
