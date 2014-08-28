@@ -4,7 +4,7 @@ Cambodia Demographic and Health Survey (2010)
 
 Description
 
-This dataset describes the 'neonatal mortality rate' (number of deaths during the first 28 completed days of life per 1,000 live births in a given year or period) and the 'under-five mortality rate' (probability of dying between birth and exactly five years of age expressed per 1,000 live births) in Cambodia for 2010, as provided by the Cambodian Ministry of Health.  Data were provided to us in vector format by Save Cambodia's Wildlife's Atlas Working Group.
+This dataset describes the 'neonatal mortality rate' (number of deaths during the first 28 completed days of life per 1,000 live births in a given year or period) and the 'under-five mortality rate' (probability of dying between birth and exactly five years of age expressed per 1,000 live births) in Cambodia for 2010, as provided by the Cambodian Ministry of Health.  Data were provided to ODC in vector format by Save Cambodia's Wildlife's Atlas Working Group.
 
 Format
 
