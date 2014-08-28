@@ -4,7 +4,7 @@ Aquaculture Production and Consumption in Cambodia (2011)
 
 Description
 
-This vector dataset provides aquaculture production and consumption metrics for 2011 in Cambodia, as provided by the Cambodian Fisheries Administration. Data were provided to us in vector format by Save Cambodia's Wildlife's Atlas Working Group.
+This vector dataset provides aquaculture production and consumption metrics for 2011 in Cambodia, as provided by the Cambodian Fisheries Administration. Data were provided to ODC in vector format by Save Cambodia's Wildlife's Atlas Working Group.
 
 Format
 
