@@ -4,7 +4,7 @@ Net Migration Rate by in Cambodia by District (2008)
 
 Description
 
-This vector dataset provides the net migration rate by district in Cambodia, as provided by Cambodian Demographic Census 2008 (NIS, MoP). Data were provided to us in vector format by Save Cambodia's Wildlife's Atlas Working Group.
+This vector dataset provides the net migration rate by district in Cambodia, as provided by Cambodian Demographic Census 2008 (NIS, MoP). Data were provided to ODC in vector format by Save Cambodia's Wildlife's Atlas Working Group.
 
 Format
 
