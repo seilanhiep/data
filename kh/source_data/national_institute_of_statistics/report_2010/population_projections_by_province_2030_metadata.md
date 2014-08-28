@@ -4,7 +4,7 @@ Population Projections for 2030 in Cambodia (2010)
 
 Description
 
-This asset provides projected population of 2030, projected annual growth rate in each province in Cambodia, given by National Institute of Statistics and the United Nations. Data were provided to us in vector format by Save Cambodia's Wildlife's Atlas Working Group.
+This asset provides projected population of 2030, projected annual growth rate in each province in Cambodia, given by National Institute of Statistics and the United Nations. Data were provided to ODC in vector format by Save Cambodia's Wildlife's Atlas Working Group.
 
 Format
 
