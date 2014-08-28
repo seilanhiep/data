@@ -4,7 +4,7 @@ Commune Database of Cambodia, Commune-Level (2011)
 
 Description
  
-The Commune Database is produced by the NCDD (National Committee for Subnational Democratic Development). This file contains excerpts of the Database, namely quantitative data about size in terms of land area and family/household indicators (rice land, electricity, latrines, domestic violence) for each commune in Cambodia as well as agricultural and livestock production. Data were provided to us in vector format by Save Cambodia's Wildlife's Atlas Working Group.
+The Commune Database is produced by the NCDD (National Committee for Subnational Democratic Development). This file contains excerpts of the Database, namely quantitative data about size in terms of land area and family/household indicators (rice land, electricity, latrines, domestic violence) for each commune in Cambodia as well as agricultural and livestock production. Data were provided to ODC in vector format by Save Cambodia's Wildlife's Atlas Working Group.
 
 Format
 
