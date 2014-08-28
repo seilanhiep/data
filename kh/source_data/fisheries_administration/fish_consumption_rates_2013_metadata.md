@@ -4,7 +4,7 @@ Fish Consumption Rates in Cambodia (2013)
 
 Description
 
-This vector dataset provides fish consumption per ecological zone in Cambodia, as given by Inland Fisheries Research and Development Institute in 2013. Geographic data is encoded in the WGS 84 coordinate reference system. Data were provided to us in vector format by Save Cambodia's Wildlife's Atlas Working Group.
+This vector dataset provides fish consumption per ecological zone in Cambodia, as given by Inland Fisheries Research and Development Institute in 2013. Geographic data is encoded in the WGS 84 coordinate reference system. Data were provided to ODC in vector format by Save Cambodia's Wildlife's Atlas Working Group.
 
 Format
 
