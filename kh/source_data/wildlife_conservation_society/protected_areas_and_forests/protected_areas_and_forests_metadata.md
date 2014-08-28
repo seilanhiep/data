@@ -4,7 +4,7 @@ Protected Areas and Forests (2013)
 
 Description
 
-This asset provides boundaries, land size and status of protected areas in Cambodia. Geographic data is encoded in the WGS 84 coordinate reference system. Data were provided to us in vector format by Save Cambodia's Wildlife's Atlas Working Group.
+This asset provides boundaries, land size and status of protected areas in Cambodia. Geographic data is encoded in the WGS 84 coordinate reference system. Data were provided to ODC in vector format by Save Cambodia's Wildlife's Atlas Working Group.
 
 Format
 
