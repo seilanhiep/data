@@ -4,7 +4,7 @@ Incidence of International Migration of Cambodia Citizens by Commune (2011)
 
 Description
 
-This vector dataset provides incidence of international migration of Cambodia citizens by commune in 2011, as provided by Commune database 2011 (NIS, Mop). Data were provided to us in vector format by Save Cambodia's Wildlife's Atlas Working Group.
+This vector dataset provides incidence of international migration of Cambodia citizens by commune in 2011, as provided by Commune database 2011 (NIS, Mop). Data were provided to ODC in vector format by Save Cambodia's Wildlife's Atlas Working Group.
 
 Format
 
