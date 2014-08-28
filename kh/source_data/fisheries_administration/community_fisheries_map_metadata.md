@@ -4,7 +4,7 @@ Community Fisheries Map for Cambodia (2011)
 
 Description
 
-This dataset provides 2011 geographic boundaries, size and the number of villages covered by each community fishery for which coordinates are available in Cambodia, as given by the Fisheries Administration. For those community fisheries sites without coordinates, locations are given as the center points of communes and metrics are taken from the Commune Database of 2011. Geographic data is encoded in the WGS 84 coordinate reference system. Data were provided to us in vector format by Save Cambodia's Wildlife's Atlas Working Group.
+This dataset provides 2011 geographic boundaries, size and the number of villages covered by each community fishery for which coordinates are available in Cambodia, as given by the Fisheries Administration. For those community fisheries sites without coordinates, locations are given as the center points of communes and metrics are taken from the Commune Database of 2011. Geographic data is encoded in the WGS 84 coordinate reference system. Data were provided to ODC in vector format by Save Cambodia's Wildlife's Atlas Working Group.
 
 Format
 
