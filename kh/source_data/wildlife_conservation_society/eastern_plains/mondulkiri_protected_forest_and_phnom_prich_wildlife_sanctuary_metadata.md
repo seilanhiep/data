@@ -4,7 +4,7 @@ Mondul Kiri Protected Forest and Phnom Prich Wildlife Sanctuary in Cambodia
 
 Description
 
-This data describes the Eastern Plains Landscape (EPL), which covers an area over 30,000 square kilometers and spans four provinces (Ratank Kiri, Mondul Kiri, Kratie and Stung Treng). This specifically looks at the Mondul Kiri Protected Forest and the Phnom Prich Wildlife Sanctuary. Data were provided to us in vector format by Save Cambodia's Wildlife's Atlas Working Group.
+This data describes the Eastern Plains Landscape (EPL), which covers an area over 30,000 square kilometers and spans four provinces (Ratank Kiri, Mondul Kiri, Kratie and Stung Treng). This specifically looks at the Mondul Kiri Protected Forest and the Phnom Prich Wildlife Sanctuary. Data were provided to ODC in vector format by Save Cambodia's Wildlife's Atlas Working Group.
 
 Format
 
