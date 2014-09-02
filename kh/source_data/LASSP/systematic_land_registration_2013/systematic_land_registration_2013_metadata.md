@@ -70,7 +70,7 @@ Save Cambodia's Wildlife. "Land." Atlas of Cambodia: maps on socio-economic deve
 
 Contact
 
-Save Cambodia Wildlife  
+Save Cambodia's Wildlife  
 info@cambodiaswildlife.org  
 +855 23 88 20 35  
 http://cambodiaswildlife.org/  
